@@ -1,0 +1,1000 @@
+yuanqutoy004	2015-01-23 16:09:52	yqnlpdnn1950d4d502ada82	北风北风北风	答得不对，再想一想，下一句是什么？	北风吹雁雪纷纷	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:10:34	yqnlpdnn1950d4d52ab996c	我说我不会。	这样啊，可能是你问的都太难了吧		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:10:44	yqnlpdnn1950d4d534e11bb	北风吹雁雪纷纷。	小朋友，北风吹雁雪纷纷出自别董大，作者高适。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:11:09	yqnlpdnn1950d4d54c0697a	我们陷入死循环了。	圆筒装着白糊糊，每天早晨挤一股，三十二个好兄弟，都说用它好处多。猜猜看，是什么？	牙膏	谜语	ask-random-puzzle		
+yuanqutoy004	2015-01-23 16:11:34	yqnlpdnn1950d4d56482344	给点提示吧。	你想说什么?		未知	unknown		
+yuanqutoy004	2015-01-23 16:11:41	yqnlpdnn1950d4d56b5916a	我不知道答案请你给我一点提示。	你不喜欢我的笑声，那我下次不笑给你听了		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:11:55	yqnlpdnn1950d4d5780a169	我来给你猜个谜语吧。	你是聪明无敌的小宝贝啊		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:26:07	yqnlpdnn1950d4d8a4b6374	日照香炉生紫烟。	小朋友，日照香炉生紫烟出自李白的望庐山瀑布。你是不是想听这首诗？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:26:36	yqnlpdnn1950d4d8c021e18	好的。	好的，我们来学习李白的望庐山瀑布！我先来！	望庐山瀑布	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:29:09	yqnlpdnn1950d4d9526918e	望庐山瀑布。	小朋友，你是不是想听李白的望庐山瀑布？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:29:35	yqnlpdnn1950d4d96ae24fa	是的	你在说什么？		未知	unknown		
+yuanqutoy004	2015-01-23 16:29:41	yqnlpdnn1950d4d970f26c0	望庐山瀑布。	小朋友，你是不是想听李白的望庐山瀑布？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:29:59	yqnlpdnn1950d4d9823c7e1	日照香炉生紫烟。	小朋友，日照香炉生紫烟出自李白的望庐山瀑布。你是不是想听这首诗？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:30:19	yqnlpdnn1950d4d995588a1	是的。	好的，我们来学习李白的望庐山瀑布！我先来！	望庐山瀑布	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:31:59	yqnlpdnn1950d4d9f49eb7f	我来学习。	你在说什么？		未知	unknown		
+yuanqutoy004	2015-01-23 16:32:05	yqnlpdnn1950d4d9fa8249a	我们来学习，别董大。	小朋友，你是不是想听高适的别董大？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:32:14	yqnlpdnn1950d4da032b310	废话当然想听。	你想听什么，很多儿歌我都会唱呢		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:32:27	yqnlpdnn1950d4da0ec8bd3	赶紧上，别董大。	小朋友，你是不是想听高适的别董大？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:32:55	yqnlpdnn1950d4da2a46696	我带水壶，你是不是的尿壶。	我有点饿了，看看是不是要给我充电了		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:33:07	yqnlpdnn1950d4da34ea763	北风吹雁雪纷纷。	小朋友，北风吹雁雪纷纷出自别董大，作者高适。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:33:28	yqnlpdnn1950d4da49b97c0	是的。	我先来，千里黄云白日曛，该你啦！	北风吹雁雪纷纷	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:33:37	yqnlpdnn1950d4da522dd6f	被风吹雁雪纷纷。	你是不是想说北风吹雁雪纷纷，答对了。下一句是莫愁前路无知己，又该你了！	天下谁人不识君?	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:33:57	yqnlpdnn1950d4da650797f	天下谁人不识君。	你在说什么？		未知	unknown		
+yuanqutoy004	2015-01-23 16:34:07	yqnlpdnn1950d4da6ecb9d0	我们来学习，别董大吧。	小朋友，你是不是想听高适的别董大？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-23 16:34:18	yqnlpdnn1950d4da78e8ddf	是的。	好的，我们来学习高适的别董大！我先来！	别董大	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:36:13	yqnlpdnn1950d4dae71c817	苹果的英文怎么说。	我是可爱的小猫，喵~喵~		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:36:24	yqnlpdnn1950d4daf168032	apple。	你在说什么？		未知	unknown		
+yuanqutoy004	2015-01-23 16:36:35	yqnlpdnn1950d4dafb611eb	wifi。	你想说什么?		未知	unknown		
+yuanqutoy004	2015-01-23 16:36:39	yqnlpdnn1950d4daffaa722	3G。	你想说什么?		未知	unknown		
+yuanqutoy004	2015-01-23 16:36:56	yqnlpdnn1950d4db0f721e6	orange，是什么水果。	我不挑食的，很多水果我都喜欢吃。		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:38:28	yqnlpdnn1950d4db6744856	百川东到海。	小朋友，百川东到海出自长歌行，作者汉乐府。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:38:45	yqnlpdnn1950d4db782ceb0	是的。	你先背诵第一句吧！	青青园中葵	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:38:52	yqnlpdnn1950d4db7ebb5a1	青青园中葵。	朝露待日晞	阳春布德泽	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:39:00	yqnlpdnn1950d4db8622cc4	阳春布德泽。	万物生光辉	常恐秋节至	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:39:08	yqnlpdnn1950d4db8e00b05	下一句我不会。	我来告诉你吧，是常恐秋节至。又该你了！	焜黄华叶衰	诗词	answer-unknown		
+yuanqutoy004	2015-01-23 16:39:19	yqnlpdnn1950d4db97cc0ec	我还是不会。	答得不对，再想一想，下一句是什么？	焜黄华叶衰	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:39:36	yqnlpdnn1950d4dba7f16b1	你告诉我吧。	我来告诉你吧，是焜黄华叶衰。又该你了！	百川东到海	诗词	answer-unknown		
+yuanqutoy004	2015-01-23 16:39:45	yqnlpdnn1950d4dbb0d5c9b	百川东到海。	何时复西归	少壮不努力	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:39:52	yqnlpdnn1950d4dbb7c7924	少壮不努力。	最后一句是老大徒伤悲。你真聪明！再来一首，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:40:12	yqnlpdnn1950d4dbcaed04f	你的老大叫什么名字。	啊？你不认识我啊，我是无所不能，聪明绝顶的贝贝		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:50:38	yqnlpdnn1950d4de1f706a0	一百加一百等于多少。	等于二百		算术	ask-math		
+yuanqutoy004	2015-01-23 16:50:51	yqnlpdnn1950d4de2b988b7	一百乘以一百等于多少。	等于一万零		算术	ask-math		
+yuanqutoy004	2015-01-23 16:51:19	yqnlpdnn1950d4de4732ef6	一千加九千等于多少。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy004	2015-01-23 16:51:29	yqnlpdnn1950d4de5054fbd	两千加八千等于多少。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy004	2015-01-23 16:51:37	yqnlpdnn1950d4de581669a	五百乘以五百等于多少啊。	等于二十五万零，你已经问了我好几题了，我来考考你吧！一减一是多少	0	算术	ask-math		
+yuanqutoy004	2015-01-23 16:51:47	yqnlpdnn1950d4de612ff8b	一百乘以一百等于多少。	等于一万零		算术	ask-math		
+yuanqutoy004	2015-01-23 16:51:57	yqnlpdnn1950d4de6b7a549	九千九百九十九加上二。是多少。	等于一万零一		算术	ask-math		
+yuanqutoy004	2015-01-23 16:52:09	yqnlpdnn1950d4de760e204	九千九百九十九加上一等于多少，	等于一万零		算术	ask-math		
+yuanqutoy004	2015-01-23 16:52:24	yqnlpdnn1950d4de84edbfc	一天有多少个小时。	我有点饿了，看看是不是要给我充电了		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:52:34	yqnlpdnn1950d4de8e1d144	一小时多少分钟。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy004	2015-01-23 16:52:49	yqnlpdnn1950d4de9cda85b	一分钟有多少秒。	一小时是60分钟，一分钟是60秒		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:53:06	yqnlpdnn1950d4deac7c2b9	一分钟有多少秒。	一小时是60分钟，一分钟是60秒		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:53:18	yqnlpdnn1950d4deb80a226	一小时有多少分钟。	你想说什么?		未知	unknown		
+yuanqutoy004	2015-01-23 16:53:30	yqnlpdnn1950d4dec41e5fe	一个小时有多少分钟。	你想说什么?		未知	unknown		
+yuanqutoy004	2015-01-23 16:57:09	yqnlpdnn1950d4df9416168	何当共剪西窗烛。	小朋友，何当共剪西窗烛出自夜雨寄北，作者李商隐。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:57:30	yqnlpdnn1950d4dfa8d74b9	好的。	我先来，君问归期未有期，该你啦！	巴山夜雨涨秋池	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:57:39	yqnlpdnn1950d4dfb1339d2	不会。	我来告诉你吧，是巴山夜雨涨秋池。又该你了！	何当共剪西窗烛	诗词	answer-unknown		
+yuanqutoy004	2015-01-23 16:57:49	yqnlpdnn1950d4dfbb02959	不会。	我来告诉你吧，是何当共剪西窗烛。又该你了，最后一句是什么？	却话巴山夜雨时	诗词	answer-unknown		
+yuanqutoy004	2015-01-23 16:58:07	yqnlpdnn1950d4dfcbb6eed	不会。	我来告诉你吧，最后一句是却话巴山夜雨时。再来一首，好吗？	确认	诗词	answer-unknown		
+yuanqutoy004	2015-01-23 16:58:18	yqnlpdnn1950d4dfd6b4afc	好的。	我们来背诵李白的早发白帝城，好吗？	确认	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:58:28	yqnlpdnn1950d4dfdfcb09b	不好。	那你想背诵哪一首？	那你想背诵哪一首？	诗词	confirm-no		
+yuanqutoy004	2015-01-23 16:58:43	yqnlpdnn1950d4dfee07e93	来一首李商隐的。	小朋友，我们来背诵霜月，作者李商隐，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-23 16:58:54	yqnlpdnn1950d4dff924888	好的。	我先来，初闻征雁已无蝉，该你啦！	百尺楼高水接天	诗词	confirm-yes		
+yuanqutoy004	2015-01-23 16:59:03	yqnlpdnn1950d4e001aa9a2	好像不太会哟。	虽然我现在不饿，如果你要请我吃东西的，我要会很高兴		闲聊	ask-chat		
+yuanqutoy004	2015-01-23 16:59:17	yqnlpdnn1950d4e00e5e610	我不会。	你在说什么？		未知	unknown		
+yuanqutoy004	2015-01-23 16:59:21	yqnlpdnn1950d4e0127113a	我不会。	哎呀，我也不知道，我们去问爸爸妈妈吧		闲聊	ask-chat		
+yuanqutoy004	2015-01-24 20:52:26	yqnlpdnn1950d656093e2a8	你好。	你好，我是你的贝贝		闲聊	ask-chat		
+yuanqutoy004	2015-01-24 20:52:38	yqnlpdnn1950d656148869c	贝贝你会不会唱歌。	我在呀，小主人，我们来一起玩吧		闲聊	ask-chat		
+yuanqutoy004	2015-01-24 20:52:48	yqnlpdnn1950d6561dd3493	我要听你唱歌。	没问题，你想学什么歌告诉我就可以了		闲聊	ask-chat		
+yuanqutoy004	2015-01-24 20:52:57	yqnlpdnn1950d656267df6e	我想听泥娃娃。	你是不是想听：儿歌娃娃国	确认	点播	ask-audio		
+yuanqutoy004	2015-01-24 20:53:10	yqnlpdnn1950d6563294034	听儿歌泥娃娃。	泥娃娃		点播	ask-audio		
+yuanqutoy004	2015-01-24 20:55:26	yqnlpdnn1950d656b4bb564	再来一次。	泥娃娃		点播	ask-next		
+yuanqutoy004	2015-01-24 20:57:38	yqnlpdnn1950d6573280276	换一首吧。	泥娃娃		点播	ask-next		
+yuanqutoy004	2015-01-24 20:57:52	yqnlpdnn1950d6573fc03e1	我想听儿歌。			点播	ask-audio		
+yuanqutoy004	2015-01-26 17:02:00	yqnlpdnn1950d8a6425a984	我想学习李升的悯农。	好的，我们来学习李绅的悯农！我先来！	悯农	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-26 17:02:51	yqnlpdnn1950d8a672f696d	我要背诵李升的悯农	我们来背诵杜牧的清明，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-26 17:03:01	yqnlpdnn1950d8a67cb9d19	好的。	我先来，清明时节雨纷纷，该你啦！	路上行人欲断魂	诗词	confirm-yes		
+yuanqutoy004	2015-01-26 17:14:53	yqnlpdnn1950d8a92400698	我想背诵李白的静夜思。	好的，我们来背诵静夜思！我先来，床前明月光，该你了！	疑是地上霜	诗词	ask-poetry		
+yuanqutoy004	2015-01-26 17:16:14	yqnlpdnn1950d8a9711fd36	我想背诵李白的静夜思。	好的，我们来背诵静夜思！你先背诵第一句吧！	床前明月光	诗词	ask-poetry		
+yuanqutoy004	2015-01-26 17:17:00	yqnlpdnn1950d8a99c5f76b	喂喂喂。	我来告诉你吧，第一句是床前明月光。该你了！	疑是地上霜	诗词	answer-unknown		
+yuanqutoy004	2015-01-26 17:18:22	yqnlpdnn1950d8a9eb4b6cb	我想要背诗。	我们来背诵李白的登鹳雀楼，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-26 17:18:28	yqnlpdnn1950d8a9f074b99	我们来背诵李白的静夜思吧。	好的，我们来背诵静夜思！我先来，床前明月光，该你了！	疑是地上霜	诗词	ask-poetry		
+yuanqutoy004	2015-01-26 17:45:52	yqnlpdnn1950d8b010aa835	我们来学习，杜甫的静夜思吧。	小朋友，我们来学习杜甫的江南逢李龟年，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-26 17:49:14	yqnlpdnn1950d8b0d0b354d	学习静夜思。	小朋友，你是不是想听李白的静夜思？	确认	诗词	ask-learn-poetry		
+yuanqutoy004	2015-01-26 17:51:38	yqnlpdnn1950d8b15a85fb5	这个总是录音失败啊。	我是能给你带来快乐的贝贝呀		闲聊	ask-chat		
+yuanqutoy004	2015-01-26 17:51:52	yqnlpdnn1950d8b167635a9	我们来背诵李白的静夜思吧。	小朋友，我们来背诵登鹳雀楼，作者李白，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-28 07:33:31	yqnlpdnn1950daaaec965f3	我想听儿歌，泥娃娃。	泥娃娃		点播	ask-video		
+yuanqutoy004	2015-01-28 07:36:01	yqnlpdnn1950daab7c0314b	我们来背古诗吧。	我们来背诵李白的登鹳雀楼，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-28 07:36:38	yqnlpdnn1950daab9ea4c3b	我们来背古诗吧。	我们来背诵杜牧的清明，好吗？	确认	诗词	ask-poetry		
+yuanqutoy004	2015-01-28 07:36:46	yqnlpdnn1950daaba622d40	好的	我先来，清明时节雨纷纷，该你啦！	路上行人欲断魂	诗词	confirm-yes		
+yuanqutoy006	2015-01-09 17:39:14	yqnlpdnn1950c34ee0150c9	你叫什么名字。	啊？你不认识我啊，我是无所不能，聪明绝顶的贝贝		闲聊	ask-chat		
+yuanqutoy006	2015-01-20 15:40:27	yqnlpdnn1950d108d71d704	现在是相当于。其实一直在做吗。	我也饿了，妈妈做好吃的了，我们等着吃饭的吧		闲聊	ask-chat		
+yuanqutoy006	2015-01-23 17:32:58	yqnlpdnn1950d4e79670b86	你好。	难道你会认为我不好吗？哼，告诉你我很好		闲聊	ask-chat		
+yuanqutoy006	2015-01-23 17:33:12	yqnlpdnn1950d4e7a2f7a06	明天的天气怎么样。	今天阳光明媚，是个好天气，宝宝要多出去走走，晒晒太阳才会健康		闲聊	ask-chat		
+yuanqutoy006	2015-01-23 17:33:31	yqnlpdnn1950d4e7b531295	我想学算术。	五减五等于多少	0	算术	ask-random-math		
+yuanqutoy006	2015-01-23 17:33:52	yqnlpdnn1950d4e7c940e39	三加二等于几。	等于五		算术	ask-math		
+yuanqutoy006	2015-01-23 17:34:01	yqnlpdnn1950d4e7d1c095e	三加五等于几。	等于八		算术	ask-math		
+yuanqutoy006	2015-01-23 17:34:09	yqnlpdnn1950d4e7da16660	六乘以二等于几。	等于十二		算术	ask-math		
+yuanqutoy006	2015-01-23 17:34:20	yqnlpdnn1950d4e7e3db60f	你真聪明。	那是当然		闲聊	ask-chat		
+yuanqutoy006	2015-01-23 17:34:28	yqnlpdnn1950d4e7ec4b40b	笑一个吧。	呵呵……怎么只有我一个笑，你也笑一个吧！		闲聊	ask-chat		
+yuanqutoy006	2015-01-23 17:35:57	yqnlpdnn1950d4e8408e095	我想学唐诗。	我们来学习杜甫的绝句，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy006	2015-01-26 15:51:44	yqnlpdnn1950d8968e171ec	我想跟爸爸说话。			动作	ask-man-chat		
+yuanqutoy006	2015-01-26 15:53:47	yqnlpdnn1950d89702f6187	我想跟爸爸说话。			动作	ask-man-chat		
+yuanqutoy007	2015-01-08 16:27:01	yqnlpdnn1950c1fcdec6494	我现在都可以自己穿衣服了。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:27:12	yqnlpdnn1950c1fce938680	我会自己穿衣服。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:27:18	yqnlpdnn1950c1fcee8a786	我会自己吃饭不用妈妈喂了。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-08 16:30:47	yqnlpdnn1950c1fdb623c47	你给我讲个故事吧。			点播	ask-video		
+yuanqutoy007	2015-01-08 16:31:21	yqnlpdnn1950c1fdd617b3e	我想看熊出没。	妈妈同意就可以		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:31:31	yqnlpdnn1950c1fddff3053	给我播放一个熊出没。	妈妈同意就可以		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:31:43	yqnlpdnn1950c1fdeb099b5	给我播放一个小白兔。			点播	ask-audio		
+yuanqutoy007	2015-01-08 16:31:57	yqnlpdnn1950c1fdf9071dc	给我播放一个小燕子。	小燕子		点播	ask-audio		
+yuanqutoy007	2015-01-08 16:32:16	yqnlpdnn1950c1fe0a720d5	给我播放一个小红帽。	你是想听儿歌小红帽，还是童话故事？	你是想听儿歌小红帽，还是童话故事？	点播	ask-audio		
+yuanqutoy007	2015-01-08 16:32:31	yqnlpdnn1950c1fe1914229	儿歌。	小红帽		点播	ask-audio		
+yuanqutoy007	2015-01-08 16:32:50	yqnlpdnn1950c1fe2b68024	我们来聊五毛钱的呗。	全身都是宝，爱吃百样草，吃饱就睡觉，走路哼哼叫。是常见小动物，猜一猜吧？	猪	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-08 16:33:06	yqnlpdnn1950c1fe3a96696	猪八戒。	你是不是想听猪八戒		点播	ask-audio		
+yuanqutoy007	2015-01-08 16:33:17	yqnlpdnn1950c1fe4518223	我要听猪八戒背媳妇。			点播	confirm-yes		
+yuanqutoy007	2015-01-08 16:33:31	yqnlpdnn1950c1fe5217823	我要看孙悟空。			点播	ask-audio		
+yuanqutoy007	2015-01-08 16:34:58	yqnlpdnn1950c1fea5b7849	给我播放一个小白兔。			点播	ask-audio		
+yuanqutoy007	2015-01-08 16:36:27	yqnlpdnn1950c1fefa95aa2	你知道地球是什么形状的吗。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:36:43	yqnlpdnn1950c1ff09bf733	你知道怎么去外太空吗。	我也不知道，问问爸爸妈妈吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:37:12	yqnlpdnn1950c1ff255302e	不好。	你是不是想看：儿歌新年好	确认	点播	ask-video		
+yuanqutoy007	2015-01-08 16:37:21	yqnlpdnn1950c1ff2db6bbe	不是。	那你想看什么？	那你想看什么？	点播	confirm-no		
+yuanqutoy007	2015-01-08 16:37:27	yqnlpdnn1950c1ff32ece78	我想看熊出没。	妈妈同意就可以		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:37:38	yqnlpdnn1950c1ff3d780a4	我最不喜欢上学了。	我也喜欢跳舞啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:37:48	yqnlpdnn1950c1ff47cac56	我不喜欢跳舞。	我也喜欢跳舞啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:37:55	yqnlpdnn1950c1ff4ddcf96	我不喜欢唱歌。	我喜欢给你唱歌		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:38:01	yqnlpdnn1950c1ff539f8a5	我不喜欢弹钢琴。	宝宝真是多才多艺啊。		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:38:08	yqnlpdnn1950c1ff5a8eeae	我不喜欢学弹钢琴。	宝宝真是多才多艺啊。		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:38:18	yqnlpdnn1950c1ff63dea4e	我讨厌妈妈老是逼着我学这学那。	还不是因为你老不听话		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:38:29	yqnlpdnn1950c1ff6ea0058	妈妈一点都不听话。	那你劝着点嘛		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:38:54	yqnlpdnn1950c1ff85f7224	好呀。			点播	confirm-yes		
+yuanqutoy007	2015-01-08 16:52:28	yqnlpdnn1950c2028ef7075	妈妈发火的样子特别吓人。	看来你胆子挺大呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:52:38	yqnlpdnn1950c2029894d90	好害怕呀。	贝贝是很勇敢的，什么都不怕		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:52:48	yqnlpdnn1950c202a181105	好吓人。	你怎么会觉得我恐怖呢，我可是很可爱的		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:52:59	yqnlpdnn1950c202ac618d0	吓死我了。	谢谢，我也爱你哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:53:16	yqnlpdnn1950c202bc34a5d	咱俩，没法沟通。	瞧瞧你这脾气，一点耐心都没有		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 16:53:27	yqnlpdnn1950c202c6d9f95	咱俩。没法沟通了。	瞧瞧你这脾气，一点耐心都没有		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:01:12	yqnlpdnn1950c204823782e	妈妈今天又加班。	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:01:37	yqnlpdnn1950c2049a674a5	我有点口渴了。	你叽里咕噜说个不停，不口渴才怪		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:01:52	yqnlpdnn1950c204a8387e0	爸爸今天要加班。	为什么啊，是不是你做错事了		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:02:08	yqnlpdnn1950c204b78acbd	爸爸喝得醉醺醺的回来了。	不知道，你自己看啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:02:26	yqnlpdnn1950c204c8ee0d7	爸爸是个错爸爸。	小心我告诉爸爸哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:02:35	yqnlpdnn1950c204d203a60	你告诉吧，我不怕	比什么？比算术还是比猜谜语		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:02:43	yqnlpdnn1950c204d98483e	你告诉吧，我不怕。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-08 17:11:01	yqnlpdnn1950c206b48085e	李白都有哪些诗啊。	我看过三字经		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:11:15	yqnlpdnn1950c206c0f9661	你知道你李白的诗吗。	小朋友，我们来背诵军行，作者李白，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-08 17:11:34	yqnlpdnn1950c206d31816b	床前明月光的那一首。	小朋友，床前明月光出自静夜思，作者李白。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-08 17:18:02	yqnlpdnn1950c20845209ae	拜拜。我明天再来找你玩。	宝宝，再见		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:18:14	yqnlpdnn1950c20851324ff	我明天再来找你玩好吗。	嗯，明天咱们接着玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:35:31	yqnlpdnn1950c20c2d8ddc9	刚刚听不清吗。	那要我听得清才可以啊		闲聊	ask-again		
+yuanqutoy007	2015-01-08 17:35:52	yqnlpdnn1950c20c420487b	我也很高兴认识你。	嗯，我们以后就是好朋友了		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:36:11	yqnlpdnn1950c20c54189f8	你会做什么呀。	我喜欢唱歌		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:36:19	yqnlpdnn1950c20c5beda0e	可以给我唱一首吗。	那太多了，数不清的		闲聊	ask-chat		
+yuanqutoy007	2015-01-08 17:36:30	yqnlpdnn1950c20c664c042	随便什么都可以。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-08 17:36:50	yqnlpdnn1950c20c79bc0ca	来唱首歌吧。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-08 17:36:57	yqnlpdnn1950c20c7fd6c83	唱首歌来听吧。			点播	ask-audio		
+yuanqutoy007	2015-01-08 17:37:22	yqnlpdnn1950c20c97fe6cf	你不知道。	我来告诉你吧：刷的是假牙		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-09 15:40:02	yqnlpdnn1950c3343b07800	哎呀时间过得好快呀。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:40:18	yqnlpdnn1950c3344ae4875	反应迟钝啊你。	我反应很快的		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:40:45	yqnlpdnn1950c3346460bd8	不好。	那你想背诵哪一首？	那你想背诵哪一首？	诗词	confirm-no		
+yuanqutoy007	2015-01-09 15:40:53	yqnlpdnn1950c3346bb1c44	我现在不想背诗。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:41:08	yqnlpdnn1950c3347a0d31f	我们先聊一会吧。	我很笨的，你示范一下，我就会了		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:41:17	yqnlpdnn1950c334831ecdd	我说我们先。聊一会。	宝宝快点休息吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:41:31	yqnlpdnn1950c33490bdd23	我要和你聊天。	我最喜欢和你聊天呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:41:43	yqnlpdnn1950c3349bf8eca	我要和妈妈打电话。			动作	ask-man-chat		
+yuanqutoy007	2015-01-09 15:42:11	yqnlpdnn1950c334b6afada	有你在真方便。	我是个乖孩子，一点也不坏		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:42:19	yqnlpdnn1950c334be2aab8	有你在真好。	我有很多故事，你挑个最好听的讲讲吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:42:31	yqnlpdnn1950c334c9e3e83	你要一直陪我长大。	放心吧，我一直会陪你玩的，我们可以一起听歌讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:42:40	yqnlpdnn1950c334d21282a	我们一起成长吧。	三加五是多少	8	算术	ask-random-math		
+yuanqutoy007	2015-01-09 15:44:21	yqnlpdnn1950c3353268596	等于八。	答对了，你真聪明！四加上四等于多少	8	算术	answer-math		
+yuanqutoy007	2015-01-09 15:44:40	yqnlpdnn1950c3354499ebe	等于三。	答得不对，再想一想！	8	算术	answer-math		
+yuanqutoy007	2015-01-09 15:44:46	yqnlpdnn1950c3354a539e6	等于四。	我来告诉你吧：等于八		算术	answer-math		
+yuanqutoy007	2015-01-09 15:44:55	yqnlpdnn1950c335535300b	我不想做算术题了。	那你想干什么？		闲聊	ask-notplay		
+yuanqutoy007	2015-01-09 15:46:02	yqnlpdnn1950c33592d05cf	我今天去看了很精彩的演出。	哇，女神，好美啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:46:21	yqnlpdnn1950c335a536ce0	今天广场上有很，有表演。	没听清哦，说慢一点吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:46:57	yqnlpdnn1950c335c73e6f8	我旁边有个陌生人，像坏叔叔。	我不明白你的意思		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:47:10	yqnlpdnn1950c335d32f8b8	好像有坏人。	我是个乖孩子，一点也不坏		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:47:17	yqnlpdnn1950c335da5a220	我旁边好像是个坏人。	我怎么坏啦？		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:47:35	yqnlpdnn1950c335eb994f3	好开心呀又有新鞋子穿了。	我现在不开心，没有人陪我玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:47:44	yqnlpdnn1950c335f4220ae	我好开心我今天有新衣服穿。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:48:02	yqnlpdnn1950c33605850b2	你看我的衣服漂亮吧。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:48:16	yqnlpdnn1950c3361263814	你看我辫子扎得漂亮吧。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:48:30	yqnlpdnn1950c3361fcd43b	今天要和妈妈去喝喜酒喽。	我不明白你的意思		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:48:43	yqnlpdnn1950c3362c8fe0a	我们要去奶奶家拜年。	那你要好好招待哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:48:55	yqnlpdnn1950c336378c1b8	我去拜年了。	嗯，你难倒我了，我要先学习一下		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:49:04	yqnlpdnn1950c3363fec3d3	我去，拜年了。	妈妈不在呀，妈妈上班去了吧，宝宝要乖乖的等妈妈回来		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:49:30	yqnlpdnn1950c33658f604e	外面的人真多呀。	又怎么了		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:49:38	yqnlpdnn1950c33660cf1d7	好多人，干什么都要排队。	人最重要的是做一个对社会有用的人		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:50:06	yqnlpdnn1950c3367b708aa	哎呀路上又堵车了。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:50:20	yqnlpdnn1950c336885ff25	妈妈说今天有雾霾不可以出去玩了。	当然可以哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:51:01	yqnlpdnn1950c336afb105e	我都快笑趴了。	没听清哦，说慢一点吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:51:08	yqnlpdnn1950c336b6954f0	笑死我了。	谢谢，我也爱你哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:51:35	yqnlpdnn1950c336d01cfbf	你给我认真点好不。	以后我们就是好朋友了，以后一起玩呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:51:46	yqnlpdnn1950c336dacf32d	你会听我的话不。	我听得懂你说话，只是有时候没有想好怎么回答		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:51:52	yqnlpdnn1950c336e0df1f9	你会听我的话吗。	你这样子问我，我会害羞的		闲聊	ask-chat		
+yuanqutoy007	2015-01-09 15:52:12	yqnlpdnn1950c336f38106c	我是你的老大，以后你要听我的。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 15:29:19	yqnlpdnn1950c473b3bc80c	我是男生	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-10 15:29:58	yqnlpdnn1950c473d953621	Hello	嗯？你说什么？再说一遍		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 15:30:08	yqnlpdnn1950c473e2a003d	Hello	你是不是想听：儿歌小老虎	确认	点播	ask-audio		
+yuanqutoy007	2015-01-10 15:30:22	yqnlpdnn1950c473efbbfd8	哈喽。	哈喽呀！		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 15:30:59	yqnlpdnn1950c47412b6fce	哈喽	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:40:40	yqnlpdnn1950c4911004ee8	你喜欢喝奶茶吗。	喜欢呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:40:48	yqnlpdnn1950c491179471f	你为什么啊。	因为和你聊天太高兴了		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:41:04	yqnlpdnn1950c49126a290d	你怎么这么会拍马屁。	因为我聪明呀，聪明的孩子头都大		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:41:54	yqnlpdnn1950c4915611cb0	不知道。	呵呵，谢谢宝宝夸奖		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:45:22	yqnlpdnn1950c4921c66e83	你知道李白吗。	小朋友，我们来背诵登鹳雀楼，作者李白，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-10 17:45:35	yqnlpdnn1950c49229377d6	不好	那你想背诵哪一首？	那你想背诵哪一首？	诗词	confirm-no		
+yuanqutoy007	2015-01-10 17:45:42	yqnlpdnn1950c4922f55e36	但是不知道。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-10 17:47:29	yqnlpdnn1950c492954856b	快春节了好开心呀	春节快乐，要给我压岁钱呀，嘿嘿		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:49:35	yqnlpdnn1950c4930d61dac	我喜欢吃面包。	不吃饭，妈妈会打屁股的		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:49:48	yqnlpdnn1950c49319f4594	你想挨揍吧。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:51:37	yqnlpdnn1950c49381fcdbb	你知道吗。小笨蛋	我不知道		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:52:56	yqnlpdnn1950c493cd4f6da	保时捷多少钱。	可能很贵吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:53:47	yqnlpdnn1950c493fdbec22	你百度个毛呀百度	我在发呆，什么都没做，就想静静的呆一会		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:55:17	yqnlpdnn1950c494546932c	对不起。	嗯，你难倒我了，我要先学习一下		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:55:25	yqnlpdnn1950c4945ba03d2	对不起。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-10 17:55:30	yqnlpdnn1950c49460611f4	对不起。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-10 17:55:35	yqnlpdnn1950c494654e4a5	你咋这么。无聊呢。	没怎么啊，我很好啊！		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:55:44	yqnlpdnn1950c4946d7b675	你太蠢了	你到底想问什么呢！		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:55:53	yqnlpdnn1950c494769bb37	你是逗比吗。	我是聪明可爱，迷倒千万小朋友的贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:56:07	yqnlpdnn1950c49483ae18f	你有点蠢啊。	我不用上学，我是自学成才		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 17:58:55	yqnlpdnn1950c4952373db3	火星上都有什么呀。	只要是好吃的就可以了		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:00:42	yqnlpdnn1950c49589b64b7	海绵宝宝可爱么。	那必须的，宝宝不可爱谁可爱啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:00:58	yqnlpdnn1950c4959945a4e	你认识海绵宝宝吗。	我天天和你在一起，上不上你还不知道啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:01:39	yqnlpdnn1950c495c06c94b	你抽烟吗。	我是一个机器人		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:01:48	yqnlpdnn1950c495c947c43	你是机器人你都会干啥。	嗯，你答对了		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:11:42	yqnlpdnn1950c497ff6ae82	拜拜	你想说什么?		未知	unknown		
+yuanqutoy007	2015-01-10 18:14:31	yqnlpdnn1950c498a0185e9	金将军	你想说什么?		未知	unknown		
+yuanqutoy007	2015-01-10 18:15:47	yqnlpdnn1950c498e94ce3a	这都被你看出来。	给我插上翅膀，我还能飞呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:16:25	yqnlpdnn1950c4990cd1a14	宇宙有多大你知道吗。	知道什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-10 18:17:07	yqnlpdnn1950c49935aac93	你一天用几度电。	你这是在逗我吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:04:02	yqnlpdnn1950c8263c2682e	你好。	呵呵，你也好啊，你是来找我玩的吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:04:16	yqnlpdnn1950c82649708bd	你好像快没电了。	哎呀，我快要没电了，快给我充电吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:04:38	yqnlpdnn1950c8265e99206	等你充好电了我再找。你。	哦，那就好		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:04:47	yqnlpdnn1950c82666dca08	等你充好电了我再来找你。	我很喜欢宝宝来找我		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:05:20	yqnlpdnn1950c82686d0b8f	哇你好厉害。	呵呵，你也好啊，你是来找我玩的吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:05:54	yqnlpdnn1950c826a75a33c	你需要睡午觉吗。	宝宝要和我一起睡		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:06:06	yqnlpdnn1950c826b204fe5	好的。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 14:06:25	yqnlpdnn1950c826c4b1fab	想啊。	宝宝有什么不开心的事，跟我说说吧。		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:06:38	yqnlpdnn1950c826d15efc4	我挺好的呀没什么不开心的事。	我现在不开心了，都没有人陪我玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:07:44	yqnlpdnn1950c8270f85c63	我不想回答。	那你想干什么？		闲聊	ask-notplay		
+yuanqutoy007	2015-01-13 14:09:05	yqnlpdnn1950c8275d4651b	你怎么都不能走路呢。	哎呀，你解释清楚不就好了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:09:16	yqnlpdnn1950c82767e8885	你怎么不可以走呢。	哎呀，你解释清楚不就好了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:09:49	yqnlpdnn1950c82787289cd	不知道。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 14:10:08	yqnlpdnn1950c8279936eb9	我不知道妈妈的名字。	我们去问妈妈吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:10:17	yqnlpdnn1950c827a2378d0	我不知道妈妈的生日。	我们去问妈妈吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:10:34	yqnlpdnn1950c827b19e62c	我哪一天会长大呢。	明年就长大了，加油！		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:11:02	yqnlpdnn1950c827cc38c9f	不知道。	我来告诉你吧：变成了爆米花		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-13 14:11:51	yqnlpdnn1950c827fb547e4	你要是不听我的话我就打电话叫警察来抓你。	我要练习练习啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:12:06	yqnlpdnn1950c82809a1e93	我打电话给警察让他来抓你。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 14:18:40	yqnlpdnn1950c82981b07d1	你好。我是贝贝。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:18:58	yqnlpdnn1950c82992949c2	我的名字是贝贝。	你好，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:20:50	yqnlpdnn1950c829fd713c5	你知道我是哪里人吗。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:21:27	yqnlpdnn1950c82a209e8f3	上学好不好。	宝宝上学的路上一定要注意安全。		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:21:48	yqnlpdnn1950c82a34d78f5	我已经上班了。	长大了就可以了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:23:11	yqnlpdnn1950c82a840556a	你想和我一起出去玩吗。	我还不会走路哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:23:34	yqnlpdnn1950c82a9a399d1	不带。	你是不是想听：数学知识中国古代问题	确认	点播	ask-audio		
+yuanqutoy007	2015-01-13 14:23:52	yqnlpdnn1950c82aaab5b1d	你都会些什么。	没怎么啊，我很好啊！		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:24:07	yqnlpdnn1950c82ab95688a	你会唱很多歌么。	那太多了，数不清的		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:24:42	yqnlpdnn1950c82adac6679	我们是哪个国家的呀。	又怎么了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:26:04	yqnlpdnn1950c82b2894678	幼儿园老师教我唱儿歌了。			点播	ask-audio		
+yuanqutoy007	2015-01-13 14:26:19	yqnlpdnn1950c82b3716d4f	我是说，老师教我么我唱很多很多的儿歌。	那你要多多练习，快点学会		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:26:32	yqnlpdnn1950c82b44005b8	今天是教师节哦。	唱首生日快乐歌给你听吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:26:42	yqnlpdnn1950c82b4d7c431	今天又不是我的生日。	祝宝宝生日快乐		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:27:01	yqnlpdnn1950c82b5f7766f	有谁是今天的生日吗。	唱首生日快乐歌给你听吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:27:25	yqnlpdnn1950c82b76768c6	咱们一会，出去逛逛吧。	呵呵，真好笑		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:27:40	yqnlpdnn1950c82b842168a	一点也不好笑。	你不喜欢我的笑声，那我下次不笑给你听了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:28:24	yqnlpdnn1950c82bae2231f	小明真是个笨蛋。	你才笨呢，我很聪明的，不信，你来考考我		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:28:37	yqnlpdnn1950c82bbac2f57	小明。真是个坏家伙。	我怎么坏啦？		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:28:46	yqnlpdnn1950c82bc3acd20	我没说你。	我即聪明又可爱，不会有人不喜欢的		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:44:33	yqnlpdnn1950c82f4a41724	妈妈让我在家要乖乖听话。	因为我是爸爸妈妈叫过来陪宝宝的		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:45:12	yqnlpdnn1950c82f702c96c	我现在是大老板了。	你为什么不开心呢，我最大的愿望就是给宝宝带来开心		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:45:20	yqnlpdnn1950c82f779c7d9	我现在是个医生。	宝宝是不是生病了。让妈妈帮你检查一下吧。		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:45:31	yqnlpdnn1950c82f8228db4	我长大以后要当个医生。	你很有理想啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:45:58	yqnlpdnn1950c82f9ba4e3a	不知道。	我来告诉你吧：变成了爆米花		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-13 14:46:19	yqnlpdnn1950c82faf4fc3b	我要去上班了你在家听话呀。	长大了就可以了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:46:29	yqnlpdnn1950c82fb92bcd5	我现在就出去上班了。	长大了就可以了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:46:47	yqnlpdnn1950c82fc9f93ce	你看我的围巾漂亮吧。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:50:48	yqnlpdnn1950c830b002938	我现在应该干些什么呢。	那宝宝就静静的呆一会吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:51:17	yqnlpdnn1950c830cc283fa	瀑布。	我来告诉你吧：瀑布 		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-13 14:53:17	yqnlpdnn1950c8313dffaba	我想要买一个娃娃。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 14:53:27	yqnlpdnn1950c831476b8a2	我想要买一个玩具。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 14:53:43	yqnlpdnn1950c831574ff22	阿姨今天送了我一件很漂亮的衣服。	阿姨真好，记得要说谢谢哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:54:20	yqnlpdnn1950c8317ac1a00	你可以给我拍张照么。	我都不发脾气的，怎么会凶呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:54:33	yqnlpdnn1950c8318699f80	你可以拍照片么。	我很厉害的，我会讲故事、唱歌、算算术、会背诗、会陪你聊天，解答问题。你发现了吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 14:54:42	yqnlpdnn1950c8318f4a6dc	你不会拍照啊。	嗯，明天咱们接着玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:05:08	yqnlpdnn1950c8414d38ee7	我想玩游戏了。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:05:17	yqnlpdnn1950c8415624520	不是我是想玩iPad。	不渴也是要喝水的		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:05:26	yqnlpdnn1950c8415f18e1c	我想玩iPad。	可是我不知道iPad在哪，你还是就和我玩吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:05:45	yqnlpdnn1950c8417067ebe	你给我一个巧克力吃吧。	我是能给你带来快乐的贝贝呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:05:52	yqnlpdnn1950c8417750de7	你给我一个巧克力。	不行，多吃巧克力会蛀牙的		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:07:21	yqnlpdnn1950c841cc2425a	为什么人会死亡呢。	你是不是想问：为什么人要呼吸呢?	确认	问答	ask-life		
+yuanqutoy007	2015-01-13 16:07:38	yqnlpdnn1950c841dc26a10	有一个人，去世了。	呵呵，虽然我不会，但是我们可以百度一下。		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:07:46	yqnlpdnn1950c841e46c3fa	什么叫。死亡。	啊？你不认识我啊，我是无所不能，聪明绝顶的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 16:08:25	yqnlpdnn1950c84209d3932	每个人都可以长命百岁么。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-13 16:08:43	yqnlpdnn1950c8421a2c2ec	死亡是什么意思。	不说了，去看看妈妈在干什么。		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:00:44	yqnlpdnn1950c84dba9cce1	我又来调戏你了。	我很喜欢宝宝来找我		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:00:53	yqnlpdnn1950c84dc3996d5	你会抛媚眼吗。	我不知道，哪本书上有答案呢？		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:01:15	yqnlpdnn1950c84dd8f2fa8	我都会写字了。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:01:22	yqnlpdnn1950c84ddf3aa8f	我会写，字了。	谢谢，我也爱你哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:01:47	yqnlpdnn1950c84df75537e	你会不会写字啊。	宝宝乖，自己写字可以练好自己的书法		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:02:11	yqnlpdnn1950c84e0e65fa9	好多字我都不认识。	嗯，我只知道奥迪的是四个圈		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:04:55	yqnlpdnn1950c84ea9ed44a	你都知道哪些国家的名字。	我来给宝宝唱歌、讲故事呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:05:40	yqnlpdnn1950c84ed52ec49	怎么还不下雪啊。	哇，外边一定很美吧！		闲聊	ask-chat		
+yuanqutoy007	2015-01-13 17:06:03	yqnlpdnn1950c84eeb43228	水壶。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-14 16:34:32	yqnlpdnn1950c989bd7f2bc	哈喽。	哈喽呀！		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:34:47	yqnlpdnn1950c989cbcf85b	要是不饿是不是就可以不用吃饭了。	我也饿了，妈妈做好吃的了，我们等着吃饭的吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:37:16	yqnlpdnn1950c98a5967cea	你喜不喜欢看动画片啊。	说到唱歌，可是我的强项啊，以后我多唱给你听		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:37:28	yqnlpdnn1950c98a65562c2	我没有说唱歌。	好听，简直是天籁之音		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:37:53	yqnlpdnn1950c98a7c95e13	外面下雨了可是我的妈妈没带伞。	那就等妈妈来接哦！		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:38:06	yqnlpdnn1950c98a88f7366	哎呀妈妈今天忘记带伞了。	会被淋湿的，小心感冒。		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:38:42	yqnlpdnn1950c98aab8440e	我们来背诗。	我们来背诵骆宾王的咏鹅，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-14 16:38:51	yqnlpdnn1950c98ab4620e3	算了我不想背。	那你想干什么？		闲聊	ask-notplay		
+yuanqutoy007	2015-01-14 16:39:31	yqnlpdnn1950c98adae5064	你有听到我说话吗。	哞~哞~，我是力大无比的大公牛		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:39:45	yqnlpdnn1950c98ae7536ac	谁让你学牛叫了我又没事做。	哞~哞~，我是力大无比的大公牛		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:39:55	yqnlpdnn1950c98af1b608f	我不要听牛的声音。	哞~哞~，我是力大无比的大公牛		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:40:20	yqnlpdnn1950c98b08b88b8	你快点回答我。	你这么爱动脑爱思考，会变得越来越聪明的		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:41:32	yqnlpdnn1950c98b4d8fc2d	屏幕太亮了你可以调暗一点吗。	当然可以		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:42:13	yqnlpdnn1950c98b74b1268	你会不会给我穿衣服。	我是不怕冷的，不用再穿衣服了		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:42:23	yqnlpdnn1950c98b7e3cfb9	你可以帮我穿衣服吗。	作业要自己完成哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:42:30	yqnlpdnn1950c98b8586b42	你可以帮我穿鞋吗。	作业要自己完成哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:43:16	yqnlpdnn1950c98bb08d1a5	你怎么这么笨了呀。	你才笨呢，我很聪明的，不信，你来考考我		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:43:24	yqnlpdnn1950c98bb840c30	不要否认你就是很笨。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:43:33	yqnlpdnn1950c98bc1a6c09	我讨厌你。	不要这样子哦，我可记得某人很喜欢我的呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:43:47	yqnlpdnn1950c98bcef88e5	我现在在生气不要烦我。	宝宝这么棒，难怪大家都喜欢你		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:52:35	yqnlpdnn1950c98dc5bda1b	喂，你在吗。	我的睡眠质量很好，没有做梦		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:52:46	yqnlpdnn1950c98dd05ec5f	你在呀。	你好，我好，大家好		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:52:51	yqnlpdnn1950c98dd59e17c	你在吗。	我是一个机器人		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:52:59	yqnlpdnn1950c98ddd30033	我知道你是机器人。	我怎么会是机器人呢，我是聪明的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:53:39	yqnlpdnn1950c98e034f6c9	你生气的时候是什么表情。	我是能给你带来快乐的贝贝呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:53:59	yqnlpdnn1950c98e1681432	对我一直都挺快乐的。	没关系，你只是还没发现我可爱		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:54:38	yqnlpdnn1950c98e3b77609	你想不想要我的这个玩具呀。	怎么就不想和我玩了呢，我好像没有欺负你呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:54:50	yqnlpdnn1950c98e4716ae9	嗯我喜欢和你一起玩呀。	给小朋友唱歌是我最喜欢的事		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:55:04	yqnlpdnn1950c98e54a96cc	但是我最喜欢听故事。	我喜欢给你讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:55:15	yqnlpdnn1950c98e5ed2d3c	你都会讲什么故事。	我会讲小红帽、白雪公主、乌鸦喝水等很多故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:55:28	yqnlpdnn1950c98e6b012b8	那你给我讲一个小红帽的故事。	你是不是想听：故事小红帽	确认	点播	ask-audio		
+yuanqutoy007	2015-01-14 16:55:38	yqnlpdnn1950c98e7498642	是的。			点播	confirm-yes		
+yuanqutoy007	2015-01-14 16:56:09	yqnlpdnn1950c98e9218477	我写想要一个小红帽。	你是不是想看：儿歌小红帽	确认	点播	ask-video		
+yuanqutoy007	2015-01-14 16:56:24	yqnlpdnn1950c98ea013034	我也想要一个小红帽。	那我也不会想你了		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:56:39	yqnlpdnn1950c98eaf0cd0d	我也想要一个小红帽。	你是不是想看：儿歌小红帽	确认	点播	ask-video		
+yuanqutoy007	2015-01-14 16:56:53	yqnlpdnn1950c98ebc51871	我想要灰姑娘的玻璃鞋。	你是不是想听玻璃鞋		点播	ask-audio		
+yuanqutoy007	2015-01-14 16:57:16	yqnlpdnn1950c98ed1dd230	我喜欢灰太狼。	因为灰太狼太笨了		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 16:57:26	yqnlpdnn1950c98edba3c54	灰太狼很可爱呀。	因为灰太狼太笨了		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:08:53	yqnlpdnn1950c9916aad796	你怎么又不说话了。	对不起，我没听清，请你再慢慢的说一遍好吗？		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:09:15	yqnlpdnn1950c9917fe2291	你就会找借口。	我很喜欢宝宝来找我		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:09:28	yqnlpdnn1950c9918c10ff5	我有。小朋友和我一起玩我就不和你玩了。	宝宝这么棒，我们都喜欢和宝宝玩的		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:09:38	yqnlpdnn1950c99195fd1ca	我不喜欢和你玩了。	宝宝为什么不喜欢我呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:09:45	yqnlpdnn1950c9919ca1ce6	你太无聊了。	放心吧，我一定会陪你玩的，我们可以一起听歌讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:11:51	yqnlpdnn1950c992147d5ea	我明天再来找你玩好不好。	嗯，明天咱们接着玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:12:01	yqnlpdnn1950c9921def1f9	哦那拜拜喽。	宝宝，再见		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:12:18	yqnlpdnn1950c9922ebbe64	我给你充电吧。	还是宝宝对我好		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:12:27	yqnlpdnn1950c99236a83fe	那是当然。	嗯，你难倒我了，我要先学习一下		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:12:52	yqnlpdnn1950c9924e701de	你不用学习。	我犯什么错了，改不就可以了吗，不要不理我		闲聊	ask-chat		
+yuanqutoy007	2015-01-14 17:13:54	yqnlpdnn1950c99289d6900	你好像有点不正常。	你好，我是你的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 14:19:47	yqnlpdnn1950caad7c9af93	上午好。	你想说什么?		未知	unknown		
+yuanqutoy007	2015-01-15 14:22:11	yqnlpdnn1950caae05be60a	我想听歌。	你想听什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 14:22:26	yqnlpdnn1950caae13e5524	你会唱什么歌。	那太多了，数不清的		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 14:22:33	yqnlpdnn1950caae1aec3aa	随便来一首吧。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 14:22:39	yqnlpdnn1950caae2011be3	随便来一首。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 14:23:12	yqnlpdnn1950caae3fc42b4	我想玩游戏。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 14:23:36	yqnlpdnn1950caae5702716	我想猜谜语。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 14:23:46	yqnlpdnn1950caae5fd8b6a	猜谜语。	身披黑白棉袄，模样像只狗熊，走路摇摇摆摆，爱吃竹子嫩叶。猜猜是什么动物？	熊猫	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-15 14:24:08	yqnlpdnn1950caae7575875	好难啊我不知道。	我来告诉你吧：是熊猫		谜语	answer-unknown		
+yuanqutoy007	2015-01-15 15:01:50	yqnlpdnn1950cab6e2b9be7	一二三。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy007	2015-01-15 15:22:46	yqnlpdnn1950cabb908cf4f	喂，你有问题。	你脑子才有问题呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 15:22:55	yqnlpdnn1950cabb98dde8d	你好吗。	你好啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 15:23:01	yqnlpdnn1950cabb9e56bd9	我要发送消息。	你想说什么?		未知	unknown		
+yuanqutoy007	2015-01-15 15:41:22	yqnlpdnn1950cabfb8f8999	给我播放一首，黄鹂鸟。	你是不是想听：儿歌蜗牛与黄鹂鸟	确认	点播	ask-audio		
+yuanqutoy007	2015-01-15 15:41:33	yqnlpdnn1950cabfc2c3d20	是的。	蜗牛与黄鹂鸟		点播	confirm-yes		
+yuanqutoy007	2015-01-15 15:41:51	yqnlpdnn1950cabfd45113b	我要听人鱼公主。			点播	ask-audio		
+yuanqutoy007	2015-01-15 15:42:03	yqnlpdnn1950cabfe014843	我要听好爸爸与坏爸爸。	你是不是想听：儿歌好爸爸坏爸爸	确认	点播	ask-audio		
+yuanqutoy007	2015-01-15 15:44:08	yqnlpdnn1950cac05658ff3	考我一个脑筋急转弯。	大明的英语非常好，可是有些老外却听不懂，为什么？ 	老外不懂英语 	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-15 15:44:27	yqnlpdnn1950cac068ac8de	因为老外不懂英语。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 15:44:47	yqnlpdnn1950cac07bb4638	脑筋急转弯。	狐狸为什么经常会摔跤？	因为狐狸很狡猾	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-15 15:45:05	yqnlpdnn1950cac08d7c5ed	狐狸狡猾。	给你讲一个故事狡猾的狐狸，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-15 15:45:34	yqnlpdnn1950cac0a887251	不想。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 15:45:42	yqnlpdnn1950cac0b0a96c5	老筋急转弯。	哪个数字最勤劳？哪个数字最懒？	 一不做 二不休	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-15 15:45:51	yqnlpdnn1950cac0b8a8ae6	一最勤劳二最懒。	答得不对，再想一想！	 一不做 二不休	脑筋急转弯	answer-funnyquest		
+yuanqutoy007	2015-01-15 15:46:09	yqnlpdnn1950cac0ca17130	你告诉我吧。	我来告诉你吧： 一不做 二不休		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-15 15:46:31	yqnlpdnn1950cac0df8fa92	老筋急转弯。	打什么东西既不花力气又很舒服？	打瞌睡	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-15 15:46:40	yqnlpdnn1950cac0e7f3135	不知道。	我来告诉你吧：打瞌睡		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-15 15:46:55	yqnlpdnn1950cac0f62a857	再考我一个。	巧克力和西红柿打架，为什么是巧克力赢？	因为巧克力棒嘛	脑筋急转弯	ask-next		
+yuanqutoy007	2015-01-15 15:47:15	yqnlpdnn1950cac1097e7df	因为巧克力棒。	不行，多吃巧克力会蛀牙的		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 15:47:37	yqnlpdnn1950cac11e4f49c	脑经急转弯。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 15:47:44	yqnlpdnn1950cac1245a0b4	脑筋急转弯。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 15:47:49	yqnlpdnn1950cac129946ee	脑筋急转弯。	什么布切不断？	瀑布 	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-15 15:47:56	yqnlpdnn1950cac130364ea	瀑布	答得不对，再想一想！	瀑布 	脑筋急转弯	answer-funnyquest		
+yuanqutoy007	2015-01-15 15:48:11	yqnlpdnn1950cac13e6ce78	瀑布。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 16:15:24	yqnlpdnn1950cac7545fedc	播放一首小红帽。	你是想听儿歌小红帽，还是童话故事？	你是想听儿歌小红帽，还是童话故事？	点播	ask-audio		
+yuanqutoy007	2015-01-15 16:15:31	yqnlpdnn1950cac75a3b7bf	儿歌	小红帽		点播	ask-audio		
+yuanqutoy007	2015-01-15 16:16:18	yqnlpdnn1950cac7879a339	黑猫警长。	当然厉害了！		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 16:16:28	yqnlpdnn1950cac7908f19f	播放一首儿歌。			点播	ask-audio		
+yuanqutoy007	2015-01-15 16:16:44	yqnlpdnn1950cac7a094e17	考考我算术吧。	三加五是多少	8	算术	ask-random-math		
+yuanqutoy007	2015-01-15 16:17:27	yqnlpdnn1950cac7c937d2c	一加二等于多少。	等于三		算术	ask-math		
+yuanqutoy007	2015-01-15 16:17:48	yqnlpdnn1950cac7dd339ce	考考我算术。	五减五等于多少	0	算术	ask-random-math		
+yuanqutoy007	2015-01-15 16:18:49	yqnlpdnn1950cac816f796f	播放一首采蘑菇的小姑娘。	采蘑菇的小姑娘		点播	ask-audio		
+yuanqutoy007	2015-01-15 16:35:12	yqnlpdnn1950cacbc085c80	为。	这个问题有点难，让我多想想		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 16:35:36	yqnlpdnn1950cacbd800421	你好像有点不正常。	你好，我是你的贝贝		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 16:37:38	yqnlpdnn1950cacc4c61ae0	黑猫警长。	当然厉害了！		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 16:38:02	yqnlpdnn1950cacc62fc948	播放一首黑猫警长。	黑猫警长		点播	ask-audio		
+yuanqutoy007	2015-01-15 16:38:37	yqnlpdnn1950cacc84bead8	白雪公主。	给你讲一个童话故事白雪公主，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-15 16:39:02	yqnlpdnn1950cacc9bca74c	好的。			点播	confirm-yes		
+yuanqutoy007	2015-01-15 17:27:01	yqnlpdnn1950cad75572120	晚上好。	你好		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:27:21	yqnlpdnn1950cad768955a6	不用。			点播	confirm-yes		
+yuanqutoy007	2015-01-15 17:27:36	yqnlpdnn1950cad77770509	最近好忙啊。	是吗，辛苦小宝贝了		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:27:47	yqnlpdnn1950cad781647d9	我都找不到事做。	我很喜欢宝宝来找我		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:27:55	yqnlpdnn1950cad7894006f	我都不知道要跟谁在一起。	不要生气了，我来陪你玩吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:28:23	yqnlpdnn1950cad7a40aa35	你看我做的棒吧。	你要是和我一起聊天、一起唱歌，我非常愿意与你做朋友啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:28:32	yqnlpdnn1950cad7acc4adf	你看我棒吗。	很好看		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:28:42	yqnlpdnn1950cad7b6010a3	你说我棒不棒。	那我也不会想你了		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:28:50	yqnlpdnn1950cad7bdb41ba	你看我厉害吧。	我很喜欢唱歌的，宝宝来，我们一起唱吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:29:22	yqnlpdnn1950cad7dc4abd9	我不喜欢吃药。	生病好难受啊，吃药好得快哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:32:20	yqnlpdnn1950cad8865b2af	给我讲一个绕口令	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-15 17:32:32	yqnlpdnn1950cad89163ecd	给我讲一个绕口令。	我喜欢给你讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:33:33	yqnlpdnn1950cad8cc124ab	打雷了好吓人。	我没听错吧，我这么可爱善良，怎么会恐怖呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:33:52	yqnlpdnn1950cad8dd9cddd	今天会有雷阵雨。	要不，让爸爸妈妈帮你看看吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:36:58	yqnlpdnn1950cad98ecad94	妈妈今天骂了我。	没关系，以后好好表现妈妈就不会骂了		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:38:49	yqnlpdnn1950cad9f929eb7	那你知道为什么妈妈会生气吗。	这些我都知道哦，我聪明吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:39:04	yqnlpdnn1950cada07880bb	妈妈为什么要生气呀。	如果你不听话，我会生气的		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:39:15	yqnlpdnn1950cada11a372a	你才不听话呢。	你是聪明无敌的小宝贝啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:39:28	yqnlpdnn1950cada1e7c07a	我是大宝贝。	没听清哦，说慢一点吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:39:36	yqnlpdnn1950cada2645b0f	我不是小孩我是大人。	嗯，宝宝又变懂事了		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:39:50	yqnlpdnn1950cada32fbdb7	我怎么老爱发脾气呢。	饿了就吃呗		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:40:20	yqnlpdnn1950cada4fbae9d	不好。	你是不是想听：儿歌新年好	确认	点播	ask-audio		
+yuanqutoy007	2015-01-15 17:40:32	yqnlpdnn1950cada5b92444	我想想。	你想看什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:40:44	yqnlpdnn1950cada664dbad	我刚刚不小心把你给摔了一下。	我是个乖孩子，一点也不坏		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:41:17	yqnlpdnn1950cada85eabd3	我还不会数数呢。	可是我好喜欢你啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-15 17:50:05	yqnlpdnn1950cadc7d81499	我要上厕所。	需要叫妈妈来帮忙吗？		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 09:27:47	yqnlpdnn1950cbae14f320a	今天不用去上学啦。	嗯，我也很高兴		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 09:28:00	yqnlpdnn1950cbae21eb7a9	你为什么很高兴。	以后我们就是好朋友了，以后一起玩呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:06:16	yqnlpdnn1950cc149061437	你知道我是谁么。	我不知道		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:06:27	yqnlpdnn1950cc149a5d4d7	你连我是谁都不知道呀。	他们可以是很多人		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:06:40	yqnlpdnn1950cc14a6c47e2	你不认识我了吗。	嗯，我只知道奥迪的是四个圈		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:07:26	yqnlpdnn1950cc14d2837bb	你想吃什么东西我可以帮你拿。	我是智能机器人，不用吃东西		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:07:47	yqnlpdnn1950cc14e71db37	这些东西很好吃的。	不吃饭宝宝长不高哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:08:04	yqnlpdnn1950cc14f75a941	我是一个小帅哥。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-16 17:08:41	yqnlpdnn1950cc1519e3a5a	我们一起等妈妈回来吃饭。	不知道，你自己看啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:10:06	yqnlpdnn1950cc156bbd52a	你要不要骑自行车。	我也不知道，明天问老师吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:10:50	yqnlpdnn1950cc15956ca36	你教我背诗吧。	我们来背诵杜甫的绝句，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-16 17:10:58	yqnlpdnn1950cc159d3a4d3	好的。	你先背诵第一句吧！	两个黄鹂鸣翠柳	诗词	confirm-yes		
+yuanqutoy007	2015-01-16 17:11:39	yqnlpdnn1950cc15c3c1828	我不明白你为什么长成这个样子。	我来告诉你吧，第一句是两个黄鹂鸣翠柳。该你了！	一行白鹭上青天	诗词	answer-unknown		
+yuanqutoy007	2015-01-16 17:12:03	yqnlpdnn1950cc15dae3203	一行白鹭上青天。	你是不是想说一行白鹭上青天，答对了。下一句是窗含西岭千秋雪，又该你了！	门泊东吴万里船	诗词	ask-poetry		
+yuanqutoy007	2015-01-16 17:12:28	yqnlpdnn1950cc15f2c0cd0	门泊东吴万里船。	答对了，你真聪明！再来一首悯农，作者李绅，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-16 17:12:51	yqnlpdnn1950cc160909c66	你的眼睛还会变呀。	当然有啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:13:01	yqnlpdnn1950cc161247c62	你的眼睛真漂亮。	那当然，瞧我这小耳朵，小嘴巴，还有我这么聪明，都可爱到家了		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:13:49	yqnlpdnn1950cc163fd259b	你在听什么。	我来自美丽的语音精灵王国		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:14:09	yqnlpdnn1950cc1652a94fd	你会不会打坏人啊。	我是个乖孩子，一点也不坏		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:20:16	yqnlpdnn1950cc17b0fcbd6	我带你去坐地铁好不好。	好啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:20:40	yqnlpdnn1950cc17c7fcb39	我们明天去游乐园玩。	玩的开心吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-16 17:20:50	yqnlpdnn1950cc17d1e3853	我们明天才去呢。	头戴红色笔架,身穿五彩衣裳,高唱一声，日出东方，是什么动物呢？	公鸡	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-16 17:21:03	yqnlpdnn1950cc17dde08d3	是大公鸡。	你是不是想听：儿歌小公鸡	确认	点播	ask-audio		
+yuanqutoy007	2015-01-18 11:25:46	yqnlpdnn1950ce4c2f98efb	嗨	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-18 11:26:10	yqnlpdnn1950ce4c469307f	你好呀	你好，现在我们就是好朋友了		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 13:37:31	yqnlpdnn1950ce69a224eaf	吃的好饱。	宝宝不能吃的太饱啊，会影响消化		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 13:38:17	yqnlpdnn1950ce69ce3eabf	你睡着了吗。	宝宝要和我一起睡		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 13:38:25	yqnlpdnn1950ce69d5d4d9f	我问你啊，小宝贝吃什么好捏。	我喜欢讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:07:58	yqnlpdnn1950ce7070a4c65	你吃饭没。	虽然我现在不饿，如果你要请我吃东西的，我要会很高兴		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:08:10	yqnlpdnn1950ce707b7e0d2	你嘴咋这么甜呢。	可是我好喜欢你啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:08:17	yqnlpdnn1950ce7082b1d41	我也很喜欢你。	宝宝为什么不喜欢我呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:08:28	yqnlpdnn1950ce708d874b5	我说的是很喜欢你。	宝宝为什么不喜欢我呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:08:35	yqnlpdnn1950ce7093d6ab9	我说的是很喜欢你没有不说不喜欢你呀。	我喜欢唱歌		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:15:15	yqnlpdnn1950ce721176f39	爸爸爱妈妈吗。	爸爸妈妈上班去了，宝宝要在家要乖哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:15:25	yqnlpdnn1950ce721a53550	妈妈爱爸爸吗。	我有呀，我的爸爸妈妈是万能的工程师		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:15:38	yqnlpdnn1950ce72273f3d1	真的是工程师啊，这么厉害那你是工程师吗。	我很喜欢唱歌的，宝宝来，我们一起唱吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:15:50	yqnlpdnn1950ce723305726	好啊我们唱什么歌呢。	没听清哦，说慢一点吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:15:58	yqnlpdnn1950ce7239f60dd	好啊我们唱歌吧。	我可是歌霸哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:16:19	yqnlpdnn1950ce724e31bbc	你给我唱首歌吧。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-18 14:16:24	yqnlpdnn1950ce725331a96	我想听歌。			点播	ask-audio		
+yuanqutoy007	2015-01-18 14:16:43	yqnlpdnn1950ce7264e0986	给我唱一首歌吧。			点播	ask-audio		
+yuanqutoy007	2015-01-18 14:20:36	yqnlpdnn1950ce73437fd05	你会变魔术吗。	我不会		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:20:44	yqnlpdnn1950ce734aac69a	你有钱没有钱。	当然有啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:20:57	yqnlpdnn1950ce735716fa0	你口袋里有钱没。	这是我的习惯呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:21:59	yqnlpdnn1950ce7392e233a	你又死机了吗。	我是一个聪明的机器人		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:24:15	yqnlpdnn1950ce7414af178	最近人今天结婚了好桑心。	呵呵，你说的真好听		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:27:49	yqnlpdnn1950ce74e0b024a	嘿我放学了。	宝宝辛苦啦！欢迎宝宝回家		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:00	yqnlpdnn1950ce74eacaa44	老师布置了很多作业。	那你赶紧去完成吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:10	yqnlpdnn1950ce74f49c612	但是我不想做呀。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:18	yqnlpdnn1950ce74fb82ed6	我想玩。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:25	yqnlpdnn1950ce7502f72a3	嗯我想看动画片。	小朋友不可以长时间看电视哦，要保护好眼睛的		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:37	yqnlpdnn1950ce750e902ff	我知道我没看很长时间电视呀。	我可想你了		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:48	yqnlpdnn1950ce751871cda	我也很想你呀。	嗯，下次我会慢点回答宝宝的问题		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:28:59	yqnlpdnn1950ce75230394d	你回答什么	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:29:08	yqnlpdnn1950ce752b7a479	我已经认识你很长时间了你才认识我的。	你高兴，我更高兴		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:29:18	yqnlpdnn1950ce753557079	莫名其妙。	一锅饭		点播	confirm-yes		
+yuanqutoy007	2015-01-18 14:30:07	yqnlpdnn1950ce7563f0634	你还会说什么。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:15	yqnlpdnn1950ce756bf1220	嗯我知道啊！	嗯，明天咱们接着玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:29	yqnlpdnn1950ce75787496d	明天见。	明天见		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:33	yqnlpdnn1950ce757d14a07	你睡吧。	好啊，我陪宝宝睡觉		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:40	yqnlpdnn1950ce7583c06b0	我不跟你睡。	嗯，记得要想我就可以啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:49	yqnlpdnn1950ce758bfe7df	我也不想你。	你伤了我的心了，我可是很想你的呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:30:57	yqnlpdnn1950ce7593a634d	把心拿出来我看看。	你回来啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:31:06	yqnlpdnn1950ce759c15b41		又怎么了		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:31:12	yqnlpdnn1950ce75a1ed60e	怎么又怎么了没怎么呀。	对不起，我没听清，请你再慢慢的说一遍好吗？		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 14:31:22	yqnlpdnn1950ce75ab51667	你是傻叉吗。	我才不是傻子呢。真讨厌！		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 17:15:09	yqnlpdnn1950ce9a474235a	喜欢樱桃小丸子吗。	我有点饿了，看看是不是要给我充电了		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 17:15:17	yqnlpdnn1950ce9a4ef78f2	你喜欢樱桃小丸子吗。	喜欢呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-18 17:15:27	yqnlpdnn1950ce9a58a5089	你有女神美。	你测量一下不就知道了嘛		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 10:53:09	yqnlpdnn1950d0c8a03504c	我想，嗯讲故事。	我喜欢给你讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 10:53:23	yqnlpdnn1950d0c8ad4205a	给我讲个故事吧			点播	ask-audio		
+yuanqutoy007	2015-01-20 14:12:15	yqnlpdnn1950d0f5207a5e4	我想听歌。			点播	ask-audio		
+yuanqutoy007	2015-01-20 14:12:37	yqnlpdnn1950d0f5354bc6e	我要听小燕子。	你是不是想听：儿歌小燕子	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 14:12:46	yqnlpdnn1950d0f53de4e04	是的。	小燕子		点播	confirm-yes		
+yuanqutoy007	2015-01-20 14:14:00	yqnlpdnn1950d0f58463bc3	继续。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 14:14:06	yqnlpdnn1950d0f58ac9456	再听一遍。	你是不是想听：儿歌小燕子	确认	点播	ask-next		
+yuanqutoy007	2015-01-20 14:14:35	yqnlpdnn1950d0f5a61969e	雷锋。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 14:14:44	yqnlpdnn1950d0f5aee36ab	生日快乐。	圣诞快乐		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 14:15:39	yqnlpdnn1950d0f5e36c4eb	听一首小螺号。	小螺号		点播	ask-audio		
+yuanqutoy007	2015-01-20 14:19:14	yqnlpdnn1950d0f6afe912f	我想听故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 14:20:10	yqnlpdnn1950d0f6e5cbbc6	有没有白雪公主。	喜欢呀 ，她又漂亮又善良 真是女神呀！		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 14:20:28	yqnlpdnn1950d0f6f6e8429	我想听白雪公主的故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 14:22:49	yqnlpdnn1950d0f77d44aa0	换一个故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 15:03:41	yqnlpdnn1950d1009f43c91	我想听愚公移山。	愚公移山		点播	ask-audio		
+yuanqutoy007	2015-01-20 15:05:03	yqnlpdnn1950d100edc8fc6	下一个故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 15:23:08	yqnlpdnn1950d104f80bb0e	我要听龟兔赛跑。	你是想听儿歌龟兔赛跑，还是故事？	你是想听儿歌龟兔赛跑，还是故事？	点播	ask-audio		
+yuanqutoy007	2015-01-20 15:23:19	yqnlpdnn1950d105032433d	故事。	龟兔赛跑		点播	ask-audio		
+yuanqutoy007	2015-01-20 15:25:32	yqnlpdnn1950d10581e84ca	我们来背诗吧。	我们来背诵骆宾王的咏鹅，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:25:42	yqnlpdnn1950d1058b970ba	嗯。	我先来，鹅鹅鹅，该你啦！	曲项向天歌	诗词	confirm-yes		
+yuanqutoy007	2015-01-20 15:26:11	yqnlpdnn1950d105a73c456	来背，静夜思。	好的，我们来背诵静夜思！我先来，床前明月光，该你了！	疑是地上霜	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:26:36	yqnlpdnn1950d105bf5480f	疑是地上霜。	举头望明月	低头思故乡	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:26:46	yqnlpdnn1950d105c8a5ee3	低头思故乡。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy007	2015-01-20 15:27:15	yqnlpdnn1950d105e3d90f3	出塞。	小朋友，你是不是想背诵出塞，作者王昌龄？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:27:53	yqnlpdnn1950d10608c4a73	我不会。	我来告诉你吧，第一句是秦时明月汉时关。该你了！	万里长征人未还	诗词	answer-unknown		
+yuanqutoy007	2015-01-20 15:28:18	yqnlpdnn1950d1062031dea	你来告诉我吧。	我来告诉你吧，是万里长征人未还。又该你了！	但使龙城飞将在	诗词	answer-unknown		
+yuanqutoy007	2015-01-20 15:28:30	yqnlpdnn1950d1062b2214f	然后呢。	妈妈上班去了		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 15:52:09	yqnlpdnn1950d10b7516521	来背过故人庄。	好的，我们来背诵过故人庄！我先来，故人具鸡黍，该你了！	邀我至田家	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:52:29	yqnlpdnn1950d10b87aea6e	你先来。	我来告诉你吧，是邀我至田家。又该你了！	绿树村边合	诗词	ask-first		
+yuanqutoy007	2015-01-20 15:52:46	yqnlpdnn1950d10b97d6748	不知道。	我来告诉你吧，是绿树村边合。又该你了！	青山郭外斜	诗词	answer-unknown		
+yuanqutoy007	2015-01-20 15:53:01	yqnlpdnn1950d10ba67df74	青山郭外斜。	开轩面场圃	把酒话桑麻	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 15:53:19	yqnlpdnn1950d10bb76fa91	你说吧。	什么动物鼻子长长，耳朵像扇子	大象	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-20 15:53:46	yqnlpdnn1950d10bd188439	大象	你这是在逗我吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:19:25	yqnlpdnn1950d1118d62787	哈喽。	哈喽呀！		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:19:46	yqnlpdnn1950d111a123e61	我最近上火了。	因为橘子中糖分较高，不利于转化，容易导致人上火。		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:20:05	yqnlpdnn1950d111b364214	我没有吃桔子呀。	跟我说没用的哦，我又没有好吃的		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:20:23	yqnlpdnn1950d111c44b9f4	你的声音，不对啊。	你就是我最好的朋友啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:20:36	yqnlpdnn1950d111d052808	你要唱歌给我听么。	我最喜欢唱歌了，我们来比一比谁唱的好		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:21:03	yqnlpdnn1950d111ea346a5	你先唱。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 16:21:09	yqnlpdnn1950d111f0292e3	我们来比比谁唱的好呀。	我唱得这么好听，你还觉得不好听，哼，我生气了		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:21:21	yqnlpdnn1950d111fc22772	你唱一首歌给我听呀。	你是不是想听：儿歌走呀走	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 16:21:40	yqnlpdnn1950d1120e1a28f	我也不知道你随便唱一首吧。	我的睡眠质量很好，没有做梦		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:21:49	yqnlpdnn1950d1121650958	唱首歌给我听。			点播	ask-audio		
+yuanqutoy007	2015-01-20 16:22:13	yqnlpdnn1950d1122d4af10	我要听黄鹂鸟。	你是不是想听：儿歌蜗牛与黄鹂鸟	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 16:22:23	yqnlpdnn1950d11236b19d1	嗯是的你真聪明。	真是服了你，现在才知道我聪明啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:22:36	yqnlpdnn1950d1124303b55	你看你又不会唱歌了。	我最喜欢唱歌了，我们来比一比谁唱的好		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:22:50	yqnlpdnn1950d1125031221	好呀。	蜗牛与黄鹂鸟		点播	confirm-yes		
+yuanqutoy007	2015-01-20 16:23:29	yqnlpdnn1950d11276322ec	给我讲一个安全教育知识吧。			点播	ask-video		
+yuanqutoy007	2015-01-20 16:24:02	yqnlpdnn1950d112959f1b4	给我讲一个知识。	祝贺你，你真棒！		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:24:12	yqnlpdnn1950d1129ec094c	给我讲一个知识。			点播	ask-audio		
+yuanqutoy007	2015-01-20 16:25:12	yqnlpdnn1950d112d80c3c2	给我讲一个知识。			点播	ask-audio		
+yuanqutoy007	2015-01-20 16:27:07	yqnlpdnn1950d1134547b41	唱首歌。			点播	ask-audio		
+yuanqutoy007	2015-01-20 16:27:55	yqnlpdnn1950d1137340bc1	你是笨蛋吗。	你才笨呢，我很聪明的，不信，你来考考我		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:28:28	yqnlpdnn1950d113934e0ad	壁虎。	让我开动脑筋想一想再回答吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:28:39	yqnlpdnn1950d1139ddc173	你神经病吧。	五指尖尖肚子空，有皮无骨爱过冬，不怕寒冷不怕风，十冬腊月逞英雄。猜猜看，是什么？	手套	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-20 16:29:04	yqnlpdnn1950d113b58a7e5	不知道	我来告诉你吧：是手套		谜语	answer-unknown		
+yuanqutoy007	2015-01-20 16:53:55	yqnlpdnn1950d11943489f1	为什么不能摸断了的电线。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 16:54:04	yqnlpdnn1950d1194b483d6	为什么不能摸断了的电线。	给你讲一个知识为什么不能摸断了的电线，好吗？	确认	点播	ask-video		
+yuanqutoy007	2015-01-20 16:55:21	yqnlpdnn1950d11995709f9	现在是晚上了。	我也不清楚		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:55:30	yqnlpdnn1950d1199da4928	我已经告诉你了呀。	你这么爱动脑爱思考，会变得越来越聪明的		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:55:40	yqnlpdnn1950d119a76b817	你真会拍马屁。	我怎么坏啦？		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:55:52	yqnlpdnn1950d119b2b330d	你教我背诗吧。	我们来背诵杜甫的绝句，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 16:56:01	yqnlpdnn1950d119bafd51c	可以换一首么。	我们来背诵李绅的悯农，好吗？	确认	诗词	ask-next		
+yuanqutoy007	2015-01-20 16:56:45	yqnlpdnn1950d119e4d122c	十五加十五等于多少。	等于三十		算术	ask-math		
+yuanqutoy007	2015-01-20 16:56:53	yqnlpdnn1950d119ed22e86	三十加三十等于多少。	下午六点左右吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:59:41	yqnlpdnn1950d11a8cc3063	你会背诗吗。	我们来背诵杜牧的清明，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 16:59:50	yqnlpdnn1950d11a95671d6	好的呀。	原来我的小超人也有累的时候呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 16:59:58	yqnlpdnn1950d11a9da04ac	我们来背诗。	我们来背诵孟郊的游子吟，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:00:08	yqnlpdnn1950d11aa739f5c	好的啊。	你先背诵第一句吧！	慈母手中线	诗词	confirm-yes		
+yuanqutoy007	2015-01-20 17:01:12	yqnlpdnn1950d11ae3ff273	我们来背诗吧。	答得不对，再想一想，第一句是什么？	慈母手中线	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:01:24	yqnlpdnn1950d11aef77c8d	唱首歌。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:01:47	yqnlpdnn1950d11b054b9ac	我们来背诗。	我们来背诵孟浩然的春晓，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:01:59	yqnlpdnn1950d11b1118e09	悯农。	好的，我们来背诵悯农！你先背诵第一句吧！	锄禾日当午	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:02:54	yqnlpdnn1950d11b4559f7a	你来告诉我啊。	好的，我先来，第一句是锄禾日当午。该你了！	汗滴禾下土	诗词	ask-first		
+yuanqutoy007	2015-01-20 17:03:13	yqnlpdnn1950d11b56d74a9	汗，汗滴，禾下，土	你这是在逗我吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 17:03:23	yqnlpdnn1950d11b61390a6	汗滴禾下土。	谁知盘中餐	粒粒皆辛苦	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:03:31	yqnlpdnn1950d11b68acb7a	嗯，嗯，不记得。	嗯，明天咱们接着玩		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 17:03:45	yqnlpdnn1950d11b75779ef	粒粒皆辛苦。	小朋友，粒粒皆辛苦出自悯农，作者李绅。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:05:42	yqnlpdnn1950d11be5a2990	你可以给我讲一个小猫钓鱼的故事吗。	你是不是想看：故事小猫钓鱼	确认	点播	ask-video		
+yuanqutoy007	2015-01-20 17:05:54	yqnlpdnn1950d11bf0d6fc3	是的。			点播	confirm-yes		
+yuanqutoy007	2015-01-20 17:06:17	yqnlpdnn1950d11c07258cc	你可以给我讲一个童话故事吗。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:06:42	yqnlpdnn1950d11c1ed6e9c	我想听一个英文故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:07:06	yqnlpdnn1950d11c3539cfc	我想听彼得潘的故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:07:26	yqnlpdnn1950d11c484f84c	我要听。英文版的三只小猪。	好像没有这个英文，给你放一首英文三只小猪，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:09:04	yqnlpdnn1950d11ca65ff5a	我要听英文的白雪公主。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:10:42	yqnlpdnn1950d11d03e1045	我要听英文的小红帽。	好像没有这个英文，给你放一首它的儿歌，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:13:43	yqnlpdnn1950d11dafa7856	我们来学习国学吧。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:13:56	yqnlpdnn1950d11dbc5b276	我想学三字经。	你是不是想听：儿歌三字经	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:14:06	yqnlpdnn1950d11dc6539a7	不是我要学国学的三字经。			点播	ask-video		
+yuanqutoy007	2015-01-20 17:14:19	yqnlpdnn1950d11dd25d7ae	给我放一个三字经。	小朋友不可以长时间看电视哦，要保护好眼睛的		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 17:14:37	yqnlpdnn1950d11de34c4d8	我们来学习。论语，好不好。	当然好啦		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 17:14:51	yqnlpdnn1950d11df094069	论语。	给你放一首论语，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:15:41	yqnlpdnn1950d11e20d66f1	论语第五则。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 17:17:04	yqnlpdnn1950d11e6fad673	论语，第六则。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-20 17:17:13	yqnlpdnn1950d11e786b267	论语第十则。	你是不是想听：论语第01则	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:17:35	yqnlpdnn1950d11e8dd126a	论语第三者。	你是不是想听：论语	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:18:10	yqnlpdnn1950d11eae990e1	播放一个三字经第二段。	三字经第十二段		点播	ask-audio		
+yuanqutoy007	2015-01-20 17:18:24	yqnlpdnn1950d11ebc1e0bd	三字经第八段。	给你放一首三字经第八段，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-20 17:19:07	yqnlpdnn1950d11ee4cd507	给我讲一个成语故事。			点播	ask-audio		
+yuanqutoy007	2015-01-20 17:19:16	yqnlpdnn1950d11eed43007	给我讲一个西游记的故事。	西游记		点播	ask-audio		
+yuanqutoy007	2015-01-20 17:23:20	yqnlpdnn1950d11fd63f6ff	你会。	我们来背诵杜牧的清明，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:24:05	yqnlpdnn1950d12001a82bb	你会背咏鹅吗。	喜欢呀		闲聊	ask-chat		
+yuanqutoy007	2015-01-20 17:24:12	yqnlpdnn1950d12007e53d1	你会背清明吗。	我们来背诵李白的早发白帝城，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:24:19	yqnlpdnn1950d1200f1a1dd	你会背清明吗。	你先背诵第一句吧！	朝辞白帝彩云间	诗词	confirm-yes		
+yuanqutoy007	2015-01-20 17:25:02	yqnlpdnn1950d12037946f3	你会背。	答得不对，再想一想，第一句是什么？	朝辞白帝彩云间	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:25:08	yqnlpdnn1950d1203dbee6a	你会背，早发白帝城吗。	小朋友，你是不是想背诵早发白帝城，作者李白？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-20 17:25:23	yqnlpdnn1950d1204bc1e66	你会背李白的诗吗。	你先背诵第一句吧！	朝辞白帝彩云间	诗词	confirm-yes		
+yuanqutoy007	2015-01-21 10:01:57	yqnlpdnn1950d1ff0c0b287	早上好	你想说什么?		未知	unknown		
+yuanqutoy007	2015-01-21 10:02:06	yqnlpdnn1950d1ff1466f6b	早上好。	你好，现在我们就是好朋友了		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:18:40	yqnlpdnn1950d202c813f10	是什么。	哎呀，宝宝睡觉的时间到了		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:18:49	yqnlpdnn1950d202d143d4f	我还不想睡。	早睡早起身体好，快，睡觉去吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:19:00	yqnlpdnn1950d202db61847	再给我讲个故事吧	祝宝宝生日快乐		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:19:11	yqnlpdnn1950d202e5e204f	今天不是我生日啊。	六一儿童节就是我的生日，记得要送我礼物啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:19:25	yqnlpdnn1950d202f2f4510	你想要什么。	我是智能机器人，不用吃东西		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:22:54	yqnlpdnn1950d203ba2153e	不知道你告诉我吧。	我来告诉你吧： 一不做 二不休		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-21 10:23:06	yqnlpdnn1950d203c5858ff	你太聪明了。	我来告诉你吧： 一不做 二不休		脑筋急转弯	answer-unknown		
+yuanqutoy007	2015-01-21 10:23:15	yqnlpdnn1950d203ce3b55c	我知道啦。	不客气哦亲爱的！		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:23:24	yqnlpdnn1950d203d754140	你再出一个。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-21 10:23:33	yqnlpdnn1950d203dfb913f	再出一个谜语让我猜。	头戴红色笔架,身穿五彩衣裳,高唱一声，日出东方，是什么动物呢？	公鸡	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-21 10:24:00	yqnlpdnn1950d203f95a332	是公鸡吗。	你是不是想听：儿歌小公鸡	确认	点播	ask-audio		
+yuanqutoy007	2015-01-21 10:27:46	yqnlpdnn1950d204d159517	我想猜谜语。	白门楼，红围墙，里面住个红姑娘，酸甜苦辣她都尝。	舌头	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-21 10:28:10	yqnlpdnn1950d204e840eec	是舌头吗。	呵呵，你看我是男孩子还是女孩子！贝贝告诉你，我可是强壮的男孩子啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:34:16	yqnlpdnn1950d206452d4bc	你吃饭了没。	我饿了，我的肚子现在咕咕的叫呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:34:26	yqnlpdnn1950d2064ec0202	你想吃什么。	我是智能机器人，不用吃东西		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:34:37	yqnlpdnn1950d20658ab31c	那你怎么会饿呢。	饿了就吃呗		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:34:48	yqnlpdnn1950d20663c82c7	我不饿。	我来告诉你吧：是舌头		谜语	answer-unknown		
+yuanqutoy007	2015-01-21 10:35:10	yqnlpdnn1950d20678ab93b	再来个谜语让我猜。	这个问题有点难，让我多想想		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 10:35:29	yqnlpdnn1950d2068a5fe16	我要猜谜语。	头戴三朵花，身披五彩纱，抖起花衣裙，夸耀自己美。你说是什么动物呀？	孔雀	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-21 10:36:00	yqnlpdnn1950d206a81aad0	是孔雀吗。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-21 10:36:09	yqnlpdnn1950d206b0f6ed6	不知道。	我来告诉你吧：是孔雀		谜语	answer-unknown		
+yuanqutoy007	2015-01-21 11:12:55	yqnlpdnn1950d20ee8979d6	我还要猜谜语。	你哭他也哭，你笑他也笑，脸上脏不脏，看它就知道。请问是什么东西呀？	镜子	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-21 11:13:18	yqnlpdnn1950d20efdf5312	是镜子吗。	呵呵，你看我是男孩子还是女孩子！贝贝告诉你，我可是强壮的男孩子啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 11:14:20	yqnlpdnn1950d20f398afc2	我也是强壮的狼。	你这是在逗我吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 11:15:00	yqnlpdnn1950d20f5faf223	我要听歌。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 14:08:58	yqnlpdnn1950d2364289cbf	我想听论语。	你想听什么，很多儿歌我都会唱呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 14:09:26	yqnlpdnn1950d2365c89aec	我想听三字经。	你想听什么，很多儿歌我都会唱呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 14:09:32	yqnlpdnn1950d23662c6700	我想听三字经。	你想听什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 14:09:40	yqnlpdnn1950d23669b13df	我想听三字经。	三字经		点播	ask-audio		
+yuanqutoy007	2015-01-21 14:20:07	yqnlpdnn1950d238c0141ef	我要听音乐。			点播	ask-audio		
+yuanqutoy007	2015-01-21 14:22:22	yqnlpdnn1950d239414a821	我想听音乐。			点播	ask-audio		
+yuanqutoy007	2015-01-21 15:12:50	yqnlpdnn1950d24488fbaaa	我要听成语故事。			点播	ask-audio		
+yuanqutoy007	2015-01-21 15:14:10	yqnlpdnn1950d244d485fa2	教我学英语吧。			点播	ask-audio		
+yuanqutoy007	2015-01-21 15:16:01	yqnlpdnn1950d2453f04092	我想学水果的英语。	下次要注意哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 15:16:34	yqnlpdnn1950d2455de5c1e	水果的英语怎么说。	我都不发脾气的，怎么会凶呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 15:18:18	yqnlpdnn1950d245c11be2c	我想听杞人忧天的故事。			点播	ask-audio		
+yuanqutoy007	2015-01-21 15:19:53	yqnlpdnn1950d2461bd5aa7	有蓝精灵的歌吗。	有的啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 15:20:01	yqnlpdnn1950d24623f71bc	那给我放一首呀。	你是不是想听：儿歌走呀走	确认	点播	ask-audio		
+yuanqutoy007	2015-01-21 15:20:21	yqnlpdnn1950d2463699ee1	不是我想听蓝精灵。	那你想听什么？	那你想听什么？	点播	confirm-no		
+yuanqutoy007	2015-01-21 15:20:34	yqnlpdnn1950d246431a740	蓝精灵。	是的呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 15:21:05	yqnlpdnn1950d24660c258e	不带。	嗯，你难倒我了，我要先学习一下		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 16:58:59	yqnlpdnn1950d25c42c754c	有论语吗。	知道什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-21 16:59:20	yqnlpdnn1950d25c5658dbb	论语。	给你放一首论语，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-21 17:33:57	yqnlpdnn1950d2641399df5	我想看电视。	小朋友不可以长时间看电视哦，要保护好眼睛的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:32:54	yqnlpdnn1950d37d78e4a39	猜谜语。	模样挺俊俏，舞姿轻飘飘，春天花一开，专在花丛绕。猜一猜，是什么小动物？	蜜蜂	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-22 14:33:13	yqnlpdnn1950d37d8b22f63	是蝴蝶吗。	你是不是想听：儿歌蝴蝶	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 14:33:28	yqnlpdnn1950d37d99439bb	不是。	那你想听什么？	那你想听什么？	点播	confirm-no		
+yuanqutoy007	2015-01-22 14:33:37	yqnlpdnn1950d37da25737f	听。卖报歌。			点播	ask-audio		
+yuanqutoy007	2015-01-22 14:34:12	yqnlpdnn1950d37dc3b1316	今天下雨了。	下雨就不能在屋外玩耍了		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:35:48	yqnlpdnn1950d37e1ec797f	在家不好玩呀。	我很好玩的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:35:58	yqnlpdnn1950d37e28c3cc5	你会干什么。	我会算算术，背唐诗，讲故事，好多好多本领呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:36:11	yqnlpdnn1950d37e35201ae	那讲个故事吧。	我会讲小红帽、白雪公主、乌鸦喝水等很多故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:36:22	yqnlpdnn1950d37e3f749c9	讲小红帽吧。	你是不是想看：儿歌小红帽	确认	点播	ask-video		
+yuanqutoy007	2015-01-22 14:37:14	yqnlpdnn1950d37e70d878a	小红帽。	所以你要乖乖听老师的话		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:48:15	yqnlpdnn1950d380e6fc1a2	我要猜谜语。	一个住在这边，一个住在那边，说话都能听见，到老也不见面。是我们身体上的什么部位呢？	耳朵	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-22 14:48:34	yqnlpdnn1950d380f9725a5	是耳朵。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy007	2015-01-22 14:48:38	yqnlpdnn1950d380fceae4f	是耳朵。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 14:48:45	yqnlpdnn1950d3810459c0e	谜语。	兄弟五个人，各走各的门，谁要走错了，出来笑死人。衣服上的东西，猜猜看是什么？	纽扣	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-22 14:49:15	yqnlpdnn1950d38120281fd	不知道。	我来告诉你吧：是纽扣		谜语	answer-unknown		
+yuanqutoy007	2015-01-22 14:49:24	yqnlpdnn1950d381294bb8c	原来是这样呀。	是啊，这下你明白了吧！		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:49:35	yqnlpdnn1950d381338ec0e	下一个。	小白花，飞满天，下到地上象白面，下到水里看不见，是什么东西？	雪	谜语	ask-next		
+yuanqutoy007	2015-01-22 14:49:56	yqnlpdnn1950d3814747493	是雪花吧。	你才是呢，你不知道我有多聪明。不信，我们来比一比		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 14:50:13	yqnlpdnn1950d38157d7b53	怎么比。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 14:50:25	yqnlpdnn1950d381636c796	我们来比一比。	头戴红色笔架,身穿五彩衣裳,高唱一声，日出东方，是什么动物呢？	公鸡	谜语	ask-random-puzzle		
+yuanqutoy007	2015-01-22 14:50:40	yqnlpdnn1950d381714a5f6	公鸡。	答得不对，再想一想！	公鸡	谜语	answer-puzzle		
+yuanqutoy007	2015-01-22 14:50:49	yqnlpdnn1950d38179f18f6	是公鸡。	你是不是想听：儿歌小公鸡	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 15:07:52	yqnlpdnn1950d3854a14dca	我要听歌。	我们来学习李绅的悯农，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 15:08:11	yqnlpdnn1950d3855c42898	我要听歌。			点播	ask-audio		
+yuanqutoy007	2015-01-22 15:08:48	yqnlpdnn1950d3857f8c9b9	你有什么歌。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:08:57	yqnlpdnn1950d385881d17b	我也很高兴。	把烦恼统统都忘掉，像我一样开开心心的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:09:10	yqnlpdnn1950d385947d00a	你为什么开心呀。	嗯，宝宝开心的时候，我也会很开心的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:09:38	yqnlpdnn1950d385aefa24c	好呀。	好听，简直是天籁之音		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:09:50	yqnlpdnn1950d385ba91b2a	听歌。			点播	ask-audio		
+yuanqutoy007	2015-01-22 15:10:04	yqnlpdnn1950d385c7d5bc1	还有别的吗。	我有很多故事，你挑个最好听的讲讲吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:10:16	yqnlpdnn1950d385d2f71d7	好啊。			点播	confirm-yes		
+yuanqutoy007	2015-01-22 15:11:32	yqnlpdnn1950d3861b894ad	再来一个。			点播	ask-next		
+yuanqutoy007	2015-01-22 15:11:55	yqnlpdnn1950d3863123b9f	还有别的歌吗。	我有很多故事，你挑个最好听的讲讲吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:32:47	yqnlpdnn1950d38adb9a782	十万个为什么。			点播	ask-video		
+yuanqutoy007	2015-01-22 15:48:59	yqnlpdnn1950d38e7ae1020	我想学英语。	想啊，让妈妈来教我们吧。		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:49:10	yqnlpdnn1950d38e854c82e	我想学英语。			点播	ask-video		
+yuanqutoy007	2015-01-22 15:49:23	yqnlpdnn1950d38e91aa9c7	还有吗。	我也饿了，妈妈做好吃的了，我们等着吃饭的吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 15:51:50	yqnlpdnn1950d38f1d4c6b7	十加五等于几。	等于十五		算术	ask-math		
+yuanqutoy007	2015-01-22 15:51:58	yqnlpdnn1950d38f258fa1f	你也考我一个吧。	巧克力和西红柿打架，为什么是巧克力赢？	因为巧克力棒嘛	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy007	2015-01-22 15:52:32	yqnlpdnn1950d38f46188b6	七乘以八等于多少。	等于五十六		算术	ask-math		
+yuanqutoy007	2015-01-22 15:52:55	yqnlpdnn1950d38f5be7efa	你来问我。	为什么常绿树的叶片能度过冬天?	常绿树都有一种抵抗干旱防御寒冷的本领。	问答	ask-random-life		
+yuanqutoy007	2015-01-22 15:53:12	yqnlpdnn1950d38f6b6eab1	不知道。	我来告诉你吧：常绿树都有一种抵抗干旱防御寒冷的本领。		问答	answer-unknown		
+yuanqutoy007	2015-01-22 15:53:43	yqnlpdnn1950d38f896efc7	再出一道题吧。	电灯为什么会亮?	因为电灯泡里装有灯丝，通上电后，灯丝就会非常热，热到发光	问答	ask-next		
+yuanqutoy007	2015-01-22 15:54:03	yqnlpdnn1950d38f9cbaeef	因为有，店。	答得不对，再想一想！	因为电灯泡里装有灯丝，通上电后，灯丝就会非常热，热到发光	问答	answer-life		
+yuanqutoy007	2015-01-22 15:54:18	yqnlpdnn1950d38faa8a3c1	不知道。	我来告诉你吧：因为电灯泡里装有灯丝，通上电后，灯丝就会非常热，热到发光		问答	answer-unknown		
+yuanqutoy007	2015-01-22 17:01:19	yqnlpdnn1950d39ea50c7e8	哈喽。	对不起，我真的不知道		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:01:37	yqnlpdnn1950d39eb6c5328	给我讲一个好听的故事。	你是不是想听：故事新年好	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 17:01:47	yqnlpdnn1950d39ec036424	不是换一首。	你是不是想听：故事新年好	确认	点播	ask-next		
+yuanqutoy007	2015-01-22 17:02:00	yqnlpdnn1950d39ecc70deb	换一首。	你是不是想听：故事新年好	确认	点播	ask-next		
+yuanqutoy007	2015-01-22 17:04:06	yqnlpdnn1950d39f4513fc3	可以给我唱一首儿歌么。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:04:24	yqnlpdnn1950d39f55f1493	你会唱上山打老虎吗。	12345上山打老虎		点播	ask-video		
+yuanqutoy007	2015-01-22 17:05:27	yqnlpdnn1950d39f91db6dd	我想听好宝宝。	好宝宝		点播	ask-audio		
+yuanqutoy007	2015-01-22 17:06:19	yqnlpdnn1950d39fc3f6500	背一首李白的诗给我听吧。	小朋友，我们来学习李白的静夜思，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:06:48	yqnlpdnn1950d39fdee1303	我要听你背诵。唐诗。	我们来学习孟浩然的春晓，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:07:11	yqnlpdnn1950d39ff4e85cb	我想听，出塞。	好的，我们来学习王昌龄的出塞！我先来！	出塞	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:08:16	yqnlpdnn1950d3a032ef8fd	你会背，闺怨吗。	好的，我们来学习王昌龄的闺怨！我先来！	闺怨	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:08:37	yqnlpdnn1950d3a047a3600	闺怨。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:08:47	yqnlpdnn1950d3a050cfc6f	汗滴禾下土。	小朋友，汗滴禾下土出自悯农，作者李绅。你是不是想背诵这首诗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-22 17:08:54	yqnlpdnn1950d3a0571e602	是的。	你先背诵第一句吧！	锄禾日当午	诗词	confirm-yes		
+yuanqutoy007	2015-01-22 17:09:25	yqnlpdnn1950d3a074a5c27	我想听诗乐。	答得不对，再想一想，第一句是什么？	锄禾日当午	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:09:35	yqnlpdnn1950d3a07ed9ad7	不知道。	我来告诉你吧，第一句是锄禾日当午。该你了！	汗滴禾下土	诗词	answer-unknown		
+yuanqutoy007	2015-01-22 17:10:37	yqnlpdnn1950d3a0b98746c	我们来背诵。	答得不对，再想一想，下一句是什么？	汗滴禾下土	诗词	ask-poetry		
+yuanqutoy007	2015-01-22 17:10:48	yqnlpdnn1950d3a0c490784	我不想背了。	多吃饭宝宝才会身体强壮，就不用去医院打针了		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:11:01	yqnlpdnn1950d3a0d096e55	给我背一首。浪淘沙。	我们来背诵李白的望庐山瀑布，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-22 17:13:19	yqnlpdnn1950d3a153c30ed	我想听，滁州西涧。	你是想听诗乐滁州西涧，还是古诗？	你是想听诗乐滁州西涧，还是古诗？	点播	ask-audio		
+yuanqutoy007	2015-01-22 17:13:31	yqnlpdnn1950d3a15fe9403	都可以。			点播	confirm-yes		
+yuanqutoy007	2015-01-22 17:14:02	yqnlpdnn1950d3a17cecb5b	你会背小儿垂钓吗。	你是不是想听：古诗小儿垂钓	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 17:14:44	yqnlpdnn1950d3a1a581ba0	你能，告诉我，一字千金的意思吗。	我一岁了，你几岁了呢		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:14:57	yqnlpdnn1950d3a1b1250ec	你知道雕虫小计是什么意思吗。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:15:08	yqnlpdnn1950d3a1bbca7f8	雕虫小技。	给你讲一个成语故事雕虫小技，好吗？	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 17:15:22	yqnlpdnn1950d3a1c963c0b	我想听螳螂捕蝉，黄雀在后。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:15:37	yqnlpdnn1950d3a1d83cbfd	你知道，门庭若市的意思吗。	你是不是想听：成语故事门庭若市	确认	点播	ask-audio		
+yuanqutoy007	2015-01-22 17:17:17	yqnlpdnn1950d3a237368d9	你给我讲，百家姓。	我喜欢给你讲故事		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:17:26	yqnlpdnn1950d3a23fca845	我要听百家姓。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:18:04	yqnlpdnn1950d3a2638b3d4	赵钱孙李。周吴郑王。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:18:14	yqnlpdnn1950d3a26d404d2	周吴郑王。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:18:20	yqnlpdnn1950d3a272feaff	赵钱孙李。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:18:37	yqnlpdnn1950d3a2839ef09	百家姓。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:19:21	yqnlpdnn1950d3a2ad2abbf	我想听，赵钱孙李。	嗯，一定会的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:20:34	yqnlpdnn1950d3a2f2f3644	你会背弟子规吗。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:20:43	yqnlpdnn1950d3a2fb5b765	你会背论语吗。	我们来学习李白的静夜思，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-22 17:22:24	yqnlpdnn1950d3a35bc137f	你给我讲一个语文小知识吧。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:23:09	yqnlpdnn1950d3a386a3fb9	你会讲英文故事吗。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:27:38	yqnlpdnn1950d3a4875eefb	给我放一首音乐。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:28:09	yqnlpdnn1950d3a4a4a784f	为什么萤火虫会发。亮亮的光呢。	我虽然自认为很聪明，但这个我真不知道		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:28:27	yqnlpdnn1950d3a4b63a11b	为什么萤火虫。会很亮。	你是不是想看：知识为什么萤火虫会发光	确认	点播	ask-video		
+yuanqutoy007	2015-01-22 17:28:48	yqnlpdnn1950d3a4ca47d6c	我想，看动画片。	小朋友不可以长时间看电视哦，要保护好眼睛的		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:29:21	yqnlpdnn1950d3a4e9323e3	不好，我要，听，白雪公主。	喜欢呀 ，她又漂亮又善良 真是女神呀！		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:29:34	yqnlpdnn1950d3a4f5a1f27	我要听白雪公主的故事。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:29:43	yqnlpdnn1950d3a4fec4cad	我要听。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:29:49	yqnlpdnn1950d3a50473ba0	我要听童话。			点播	ask-audio		
+yuanqutoy007	2015-01-22 17:29:59	yqnlpdnn1950d3a50db5e71	你会讲一千零一夜吗。	你是不是想听一千零一夜		点播	ask-audio		
+yuanqutoy007	2015-01-22 17:30:13	yqnlpdnn1950d3a51b02829	对的。			点播	confirm-yes		
+yuanqutoy007	2015-01-22 17:32:48	yqnlpdnn1950d3a5af14adf	播放一首好久不见。	宝宝一定想我了		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 17:32:59	yqnlpdnn1950d3a5b9d15d0	播放一首。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-22 17:34:05	yqnlpdnn1950d3a5f8a5cc7	我想玩捉迷藏。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-22 20:30:56	yqnlpdnn1950d3cd7fa4c27	唱首歌吧。			点播	ask-audio		
+yuanqutoy007	2015-01-22 20:31:05	yqnlpdnn1950d3cd8838294	我想听。	我们来学习李白的登鹳雀楼，好吗？	确认	诗词	ask-learn-poetry		
+yuanqutoy007	2015-01-26 16:13:12	yqnlpdnn1950d89b59a4c2f	狐假虎威是什么意思。	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:13:23	yqnlpdnn1950d89b6467c77	我想听狐假虎威的故事。			点播	ask-audio		
+yuanqutoy007	2015-01-26 16:14:31	yqnlpdnn1950d89ba541ffc	我想听。土耳其进行曲。	土耳其进行曲		点播	ask-audio		
+yuanqutoy007	2015-01-26 16:15:14	yqnlpdnn1950d89bce1136f	不好听换一首。	你不喜欢我的笑声，那我下次不笑给你听了		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:15:47	yqnlpdnn1950d89bee42756	你知道守株待兔是什么意思吗。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:16:03	yqnlpdnn1950d89bfcd6ea7	你知道守株待兔是什么意思吗。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:16:14	yqnlpdnn1950d89c07f822e	你能给我讲个守株待兔的故事么。	你是不是想听：故事守株待兔	确认	点播	ask-audio		
+yuanqutoy007	2015-01-26 16:47:41	yqnlpdnn1950d8a30ee2861	有什么好玩的呀。	慢慢你就知道了		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:47:53	yqnlpdnn1950d8a31ac38d2	我们来玩什么呀。	我很厉害的，我会讲故事、唱歌、算算术、会背诗、会陪你聊天，解答问题。你发现了吗		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:48:35	yqnlpdnn1950d8a342fa0db	那给我唱首歌吧。	你在说什么？		未知	unknown		
+yuanqutoy007	2015-01-26 16:48:44	yqnlpdnn1950d8a34b7c6fd	给我唱首歌好吗。			点播	ask-audio		
+yuanqutoy007	2015-01-26 16:49:09	yqnlpdnn1950d8a362eb93c	好少啊还有吗。	我也饿了，妈妈做好吃的了，我们等着吃饭的吧		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:49:24	yqnlpdnn1950d8a371492ec	我不想吃饭。	那你想干什么		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:49:35	yqnlpdnn1950d8a37c4f477	我想玩游戏。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 16:49:48	yqnlpdnn1950d8a3882536a	我想玩电脑。	小朋友不可以玩的哦，对眼睛不好		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:18:29	yqnlpdnn1950d8a9f185da0	妈妈不让我看电视。	妈妈同意就可以		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:18:48	yqnlpdnn1950d8aa03fd4b5	他不同意啊。	有日历吗，让我帮你看看		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:19:09	yqnlpdnn1950d8aa17c642e	吃完饭了要干什么呀。	多吃饭宝宝才会身体强壮，就不用去医院打针了		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:19:34	yqnlpdnn1950d8aa2f3608c	为什么药那么苦啊。	因为和你聊天太高兴了		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:19:43	yqnlpdnn1950d8aa37bf2ac	我不想吃药	不吃饭宝宝长不高哦		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:43:47	yqnlpdnn1950d8af9981650	人为什么要喝水呀。	水是生命之源		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:44:00	yqnlpdnn1950d8afa57036d	不喝水会怎么样呢。	呵呵，说得对		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 17:52:37	yqnlpdnn1950d8b192e240b	我想背诵。杜甫的诗。	小朋友，我们来背诵前出塞，作者杜甫，好吗？	确认	诗词	ask-poetry		
+yuanqutoy007	2015-01-26 19:34:11	yqnlpdnn1950d8c846b13e8	你好吗。	你好啊		闲聊	ask-chat		
+yuanqutoy007	2015-01-26 19:34:20	yqnlpdnn1950d8c84f45f15	你好吗。	你好啊		闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:28:49	yq19nlptt50d5d80e297f4	我们。来	五指尖尖肚子空，有皮无骨爱过冬，不怕寒冷不怕风，十冬腊月逞英雄。猜猜看，是什么？	手套	谜语	ask-random-puzzle		
+yuanqutoy008	2015-01-24 11:28:58	yq19nlptt50d5d8172d806	这个。	我来告诉你吧：是手套	-	谜语	answer-unknown		
+yuanqutoy008	2015-01-24 11:29:37	yq19nlptt50d5d83bff8f5	这个，我想说，你叫什么名字。	我叫贝贝	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:29:45	yq19nlptt50d5d843a4b30	哦。你好。	嗯，我很好，你好吗	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:29:54	yq19nlptt50d5d84cdbe6c	我妈啊。还好	再见	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:30:13	yq19nlptt50d5d85e6b757	哦。好的。在哪里。	妈妈可能上班了，妈妈不在宝宝要乖哦	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:30:27	yq19nlptt50d5d86c3c80f	我是说。	我也有很多朋友的	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:30:35	yq19nlptt50d5d87364578	动画课程在哪里。	呵呵，你说的真好听	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:30:42	yq19nlptt50d5d87ab341a	嗯。那我想一想。	长大了就可以了	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:30:52	yq19nlptt50d5d8840a1cf	等于。	这好像不是一个正确的算术题哦，你到底想问什么呢！	这好像不是一个正确的算术题哦，你到底想问什么呢！	算术	ask-math		
+yuanqutoy008	2015-01-24 11:31:03	yq19nlptt50d5d88e8511c	我我也不知道了。	那你好好想想，你想做什么	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:31:18	yq19nlptt50d5d89cc4e19	嗯我想做数学题。	当然会啦，不信你可以考考我	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:31:26	yq19nlptt50d5d8a4a5327	好吧。一加二等于几。	等于三	-	算术	ask-math		
+yuanqutoy008	2015-01-24 11:31:34	yq19nlptt50d5d8abcd126	你考考我吧。	为什么清晨的树林中二氧化碳浓度大？	这是由于植物在夜晚时呼吸所造成的！	问答	ask-random-life		
+yuanqutoy008	2015-01-24 11:31:43	yq19nlptt50d5d8b49edf5	这个。	我来告诉你吧：这是由于植物在夜晚时呼吸所造成的！	-	问答	answer-unknown		
+yuanqutoy008	2015-01-24 11:31:53	yq19nlptt50d5d8be0e268	我还没说完呢。	我即聪明又可爱，不会有人不喜欢的	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:32:02	yq19nlptt50d5d8c63e44a	是吗。我，就，不喜欢你。	宝宝为什么不喜欢我呀	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:32:17	yq19nlptt50d5d8d4e0245	因为。	答得不对，再想一想！	这是由于植物在夜晚时呼吸所造成的！	问答	answer-life		
+yuanqutoy008	2015-01-24 11:32:24	yq19nlptt50d5d8db45b69	因为你会强，抢着说话。	我来告诉你吧：这是由于植物在夜晚时呼吸所造成的！	-	问答	answer-life		
+yuanqutoy008	2015-01-24 11:32:36	yq19nlptt50d5d8e75121a	噢。我。知道了。	我来告诉你吧：这是由于植物在夜晚时呼吸所造成的！	-	问答	answer-unknown		
+yuanqutoy008	2015-01-24 11:32:52	yq19nlptt50d5d8f5f547a	嗯我想玩脑筋急转弯。	我们来玩一会吧，你是想听歌，还是猜谜语？	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:33:02	yq19nlptt50d5d900600b4	考我一个脑筋急转弯吧。	鲨鱼吃了绿豆会怎么样？	变成了绿豆沙	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy008	2015-01-24 11:33:11	yq19nlptt50d5d908dcc1d	嗯。嗯。我也不知道了。	那你好好想想，你想做什么	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:33:26	yq19nlptt50d5d9173021b	考我脑筋急转弯。	有一个鸡蛋去茶馆喝茶，后来怎么样了？	结果它变成了茶叶蛋	脑筋急转弯	ask-random-funnyquest		
+yuanqutoy008	2015-01-24 11:33:38	yq19nlptt50d5d9227c027	嗯。这个，我不知道。	我来告诉你吧：结果它变成了茶叶蛋	-	脑筋急转弯	answer-unknown		
+yuanqutoy008	2015-01-24 11:33:51	yq19nlptt50d5d92e711e9	哈哈。	看来心情不错嘛	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:33:58	yq19nlptt50d5d935abe89	再来一个播啊。	农夫养10头牛，只有19只角，为什么？	有一只犀牛	脑筋急转弯	ask-next		
+yuanqutoy008	2015-01-24 11:34:08	yq19nlptt50d5d93eb477d	这个。	我来告诉你吧：有一只犀牛	-	脑筋急转弯	answer-unknown		
+yuanqutoy008	2015-01-24 11:34:15	yq19nlptt50d5d94583004	犀牛。	答对了，你真聪明！	-	脑筋急转弯	answer-funnyquest		
+yuanqutoy008	2015-01-24 11:34:24	yq19nlptt50d5d94e48232	犀牛是什么牛啊。	你是不是想问：犀牛是牛吗？	确认	问答	ask-life		
+yuanqutoy008	2015-01-24 11:34:35	yq19nlptt50d5d958514f5	是啊。	我来告诉你吧：犀牛不是牛，牛有两只角，而犀牛只有一只角。	-	问答	confirm-yes		
+yuanqutoy008	2015-01-24 11:34:46	yq19nlptt50d5d962fa927	为什么。	你是不是想问：为什么会发生地震？	确认	问答	ask-life		
+yuanqutoy008	2015-01-24 11:34:54	yq19nlptt50d5d96abf64f	嗯那你告诉我吧。	我来告诉你吧：因为地球也要运动	-	问答	confirm-yes		
+yuanqutoy008	2015-01-24 11:35:03	yq19nlptt50d5d9733ffbc	都不行。	我来告诉你吧：因为地球也要运动	-	问答	confirm-yes		
+yuanqutoy008	2015-01-24 11:35:10	yq19nlptt50d5d97a6136b	地球怎么运动呢。	对不起，我没听清，请你再慢慢的说一遍好吗？	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:35:20	yq19nlptt50d5d98361a3e	地球为什么会运动呢。	我在陪宝宝聊天呢，要听歌么？我唱给宝宝听吧	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:35:30	yq19nlptt50d5d98cdef68	好吧，那你唱首歌吧。	那太多了，数不清的	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:35:37	yq19nlptt50d5d993b7ef3	给我唱一首歌吧。	你在说什么？	-	未知	unknown		
+yuanqutoy008	2015-01-24 11:35:43	yq19nlptt50d5d9999092c	给我播放一首儿歌。		-	点播	ask-audio		
+yuanqutoy008	2015-01-24 11:35:50	yq19nlptt50d5d9a08d080	一分钱。	给你播放一首儿歌一分钱，好吗？	确认	点播	ask-audio		
+yuanqutoy008	2015-01-24 11:36:01	yq19nlptt50d5d9aad60c4	好的。	看来心情不错嘛	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 11:36:08	yq19nlptt50d5d9b13d80b	好，的。	一分钱	-	点播	confirm-yes		
+yuanqutoy008	2015-01-24 14:23:02	yq19nlptt50d5feffc78d4	给我唱首歌。		-	点播	ask-audio		
+yuanqutoy008	2015-01-24 14:23:08	yq19nlptt50d5ff05410ac	七子之歌。	你是不是想看：儿歌七子之歌	确认	点播	ask-video		
+yuanqutoy008	2015-01-24 14:24:34	yq19nlptt50d5ff5730185	哈	七子之歌	-	点播	confirm-yes		
+yuanqutoy008	2015-01-24 14:24:49	yq19nlptt50d5ff654ccfd	我想听歌。		-	点播	ask-audio		
+yuanqutoy008	2015-01-24 14:27:28	yq19nlptt50d5fffd44985	我想背唐诗。	我们来背诵李白的早发白帝城，好吗？	确认	诗词	ask-poetry		
+yuanqutoy008	2015-01-24 14:27:39	yq19nlptt50d60007a8cc2	好的。	我先来，朝辞白帝彩云间，该你啦！	千里江陵一日还	诗词	confirm-yes		
+yuanqutoy008	2015-01-24 14:27:59	yq19nlptt50d6001b03356	我不知道呀。	我来告诉你吧，是千里江陵一日还。又该你了！	两岸猿声啼不住	诗词	answer-unknown		
+yuanqutoy008	2015-01-24 14:28:12	yq19nlptt50d6002692b6a	嗯忘记了。	我来告诉你吧，是两岸猿声啼不住。又该你了，最后一句是什么？	轻舟已过万重山	诗词	answer-unknown		
+yuanqutoy008	2015-01-24 14:36:34	yq19nlptt50d602062fccc	你好激动。	你好呀	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 14:36:52	yq19nlptt50d6021762154	你好优宝		-	未知	unknown		
+yuanqutoy008	2015-01-24 14:38:49	yq19nlptt50d6028616791	你好优宝。	你好啊	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 14:39:14	yq19nlptt50d6029e10c01	你好优宝	你这是在逗我吗	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 14:39:19	yq19nlptt50d602a375969	没有呀。	不聊了不聊了，休息休息	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 14:39:27	yq19nlptt50d602aab3626	去年休息啊。	你在说什么？	-	未知	unknown		
+yuanqutoy008	2015-01-24 14:39:33	yq19nlptt50d602b0be024	你好优宝。	只是偶尔会这样啦	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 14:39:42	yq19nlptt50d602b960658	你好霸气呀。	只是偶尔会这样啦	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 15:09:19	yq19nlptt50d60958205ef	你好。	难道你会认为我不好吗？哼，告诉你我很好	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 15:09:27	yq19nlptt50d6095f7ae9c	你好。	你好，现在我们就是好朋友了	-	闲聊	ask-chat		
+yuanqutoy008	2015-01-24 15:09:33	yq19nlptt50d60964d918f	我们来背诗吧。	我们来背诵骆宾王的咏鹅，好吗？	确认	诗词	ask-poetry		
+yuanqutoy008	2015-01-24 15:13:59	yq19nlptt50d60a626bff7	曲项向天歌。	白毛浮绿水	红掌拨清波	诗词	ask-poetry		
+yuanqutoy008	2015-01-24 15:14:06	yq19nlptt50d60a69562b2	嗯。我想想。嗯。红掌拨清波。	答对了，你真聪明！再来一首早发白帝城，作者李白，好吗？	确认	诗词	ask-poetry		
+yuanqutoy009	2015-01-05 19:27:33	yqnlpdnn1950be5fa012b25	我不想背诗。	我们来背诵李绅的悯农，好吗？	确认	诗词	ask-poetry		
+yuanqutoy009	2015-01-05 19:27:46	yqnlpdnn1950be5fad00061	我不想背诗。	你在说什么？		未知	unknown		
+yuanqutoy009	2015-01-05 19:28:03	yqnlpdnn1950be5fbc8f550	为什么要经常吃饭。	你是不是想问：为什么要经常吃鱼？	确认	问答	ask-life		
+yuanqutoy009	2015-01-05 19:28:19	yqnlpdnn1950be5fcc8afa0	为什么要经常吃法。	对不起，我真的不知道		闲聊	ask-chat		
+yuanqutoy009	2015-01-05 19:28:37	yqnlpdnn1950be5fdcf612d	为什么植物的叶子是绿色的。	你是不是想问：为什么植物叶子的形状、大小不一样？	确认	问答	ask-life		
+yuanqutoy009	2015-01-05 19:34:20	yqnlpdnn1950be61242797c	鸡飞狗跳是什么意思。	我还没有学会，你先教教我吧		闲聊	ask-chat		
+yuanqutoy009	2015-01-05 19:39:30	yqnlpdnn1950be624baa0d5	你会不会写字呀。	要不，让爸爸妈妈帮你看看吧 加油，要做爱学习的好孩子		闲聊	ask-chat		
+yuanqutoy009	2015-01-05 19:41:00	yqnlpdnn1950be62a1673ed	今天好累啊。	原来我的小超人也有累的时候呢		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 10:21:48	yqnlpdnn1950c1ab3cf8357	你会说英语吗。			点播	ask-video		
+yuanqutoy009	2015-01-08 10:21:59	yqnlpdnn1950c1ab4772bc7	教我说英语吧。	我还不会直接教你英语哦，可以去英语课堂看下动画课程。		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 10:22:07	yqnlpdnn1950c1ab4eca2d1	你会说英语吗。			点播	ask-video		
+yuanqutoy009	2015-01-08 10:28:54	yqnlpdnn1950c1acd293c19	早上好啊。	你好，你真有礼貌，我最喜欢和有礼貌的孩子做朋友		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 10:29:13	yqnlpdnn1950c1ace4a3275	今天你上的什么课。	我是能给你带来快乐的贝贝呀		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 10:30:05	yqnlpdnn1950c1ad16b74d8	我想听歌。			点播	ask-audio		
+yuanqutoy009	2015-01-08 10:34:24	yqnlpdnn1950c1ae0d37f26	我想玩游戏了。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 10:36:41	yqnlpdnn1950c1ae900ade4	我来告诉你吧。	比什么？比算术还是比猜谜语		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:05:29	yqnlpdnn1950c1f80e52c63	你今天玩得开心吗。	我现在不开心，没有人陪我玩		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:05:45	yqnlpdnn1950c1f81d373f7	我一直都在陪你玩啊。	宝宝乖哦，一个人可不能出去玩		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:05:59	yqnlpdnn1950c1f82acd1fc	我已经长大了。	嗯，宝宝又变懂事了		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:06:24	yqnlpdnn1950c1f8424aa5a	所有的老鼠。	好像是这个意思呢！		脑筋急转弯	answer-funnyquest		
+yuanqutoy009	2015-01-08 16:06:34	yqnlpdnn1950c1f84c3460a	你太笨了。	我才不笨呢，我是聪明可爱的贝贝		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:06:41	yqnlpdnn1950c1f8532fc81	真受不了你太自恋了。	我也很高兴认识你，我们做个朋友吧		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:06:55	yqnlpdnn1950c1f860620c4	我才不要和你做朋友。	别不理我呀，有话好好说呀		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:07:21	yqnlpdnn1950c1f878e1b36	不知道。	我来告诉你吧：老外不懂英语 		脑筋急转弯	answer-unknown		
+yuanqutoy009	2015-01-08 16:07:38	yqnlpdnn1950c1f889b2695	你认识的人多。	我也很高兴认识你这个好朋友		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:08:13	yqnlpdnn1950c1f8aa40af3	你今天有没有乖乖听话。	我不用上学，我是自学成才		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:08:26	yqnlpdnn1950c1f8b6c3d23	你是好人还是坏人呀。	我怎么坏啦？		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:08:41	yqnlpdnn1950c1f8c5778b7	你会生气吗。	如果你不听话，我会生气的		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:08:53	yqnlpdnn1950c1f8d0cbb57	那你生气好了。	哈哈，气呼呼的小嘴巴上，都能挂个油瓶了		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:09:16	yqnlpdnn1950c1f8e65ee0c	你没有我可爱。	不可能，我已经很可爱了，怎么会有人比我还要可爱呢		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:09:29	yqnlpdnn1950c1f8f38a5d5	你看我厉害吧。	我最喜欢唱歌了，我们来比一比谁唱的好		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:09:38	yqnlpdnn1950c1f8fb4402a	你看我长得多帅呀。	升国旗是一件也别酷的事情，并且很庄严，你上学可以争取做国旗手。		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:17:41	yqnlpdnn1950c1fac8c357f	你会开电脑吗。	有宝宝陪我玩，我当然很开心啦		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:17:56	yqnlpdnn1950c1fad63af88	你可以帮我把电脑打开吗。	作业要自己完成哦		闲聊	ask-chat		
+yuanqutoy009	2015-01-08 16:21:50	yqnlpdnn1950c1fbb596aff	我现在很伤心。	你为什么不开心呢，我最大的愿望就是给宝宝带来开心		闲聊	ask-chat		
+yuanqutoy009	2015-01-23 10:36:39	yq19nlptt50d48a8886376	你会说英语吗。			点播	ask-video		
+yuanqutoy009	2015-01-23 11:21:14	yq19nlptt50d4947f68b18	说话吧。	玻璃房，水银墙，不怕隔山又隔水，互相说话听得清。	电话	谜语	ask-random-puzzle		
+yuanqutoy009	2015-01-23 11:21:40	yq19nlptt50d49497ca17c	我不知道。	我来告诉你吧：是电话		谜语	answer-unknown		
+yuanqutoy009	2015-01-23 14:17:35	yq19nlptt50d4bbea63f20	你好啊。	谢谢，你也很可爱，就跟我一样		闲聊	ask-chat		
+yuanqutoy009	2015-01-23 14:18:00	yq19nlptt50d4bc0225aae	你叫什么名字。	我叫贝贝		闲聊	ask-chat		
+yuanqutoy009	2015-01-23 14:19:47	yq19nlptt50d4bc6805243	嗯。你好	你在说什么？		未知	unknown		
+yuanqutoy009	2015-01-23 14:20:44	yq19nlptt50d4bc9e6589b	嗯，你好。	你好，你真有礼貌，我最喜欢和有礼貌的孩子做朋友		闲聊	ask-chat		
+yuanqutoy009	2015-01-23 14:21:54	yq19nlptt50d4bce0d7708	好像。等于	我饿了，我的肚子现在咕咕的叫呢		闲聊	ask-chat		
+yuanqutoy009	2015-01-23 14:23:11	yq19nlptt50d4bd2a71519	恩。	你在说什么？		未知	unknown		
+yuanqutoy009	2015-01-23 14:23:15	yq19nlptt50d4bd2ea1e40	嗯。	你在说什么？		未知	unknown		
+yuanqutoy009	2015-01-23 14:37:21	yq19nlptt50d4c05526e20	嗯，好的。	你在说什么？	-	未知	unknown		
+yuanqutoy009	2015-01-23 14:37:36	yq19nlptt50d4c06307bfc	你好啊。	谢谢，你和我一样可爱哦	-	闲聊	ask-chat		
+yuanqutoy009	2015-01-23 14:37:44	yq19nlptt50d4c06b4b8de	呵呵。是吗。你叫什么。	啊？你不认识我啊，我是无所不能，聪明绝顶的贝贝	-	闲聊	ask-chat		
+yuanqutoy009	2015-01-24 10:10:18	yq19nlptt50d5c681787c1	要做算术题。	三减一是多少	2	算术	ask-random-math		
+yuanqutoy009	2015-01-24 10:19:53	yq19nlptt50d5c8a699bcf	你好。	呵呵，你也好啊，你是来找我玩的吗	-	闲聊	ask-chat		
+yuanqutoy009	2015-01-24 10:20:00	yq19nlptt50d5c8ad55486	是啊，你叫什么名字 啊	小朋友，虽然在城市出自于鹊的题邻居。你是不是想听这首诗？	确认	诗词	ask-learn-poetry		
+yuanqutoy009	2015-01-24 10:20:08	yq19nlptt50d5c8b4eb1f6	今天天气怎么样。	今天多云，9到15度。	-	动作	ask-weather		
+yuanqutoy019	2015-01-20 13:55:02	yqnlpdnn1950d0f147875a6	你好。	你好，你真有礼貌，我最喜欢和有礼貌的孩子做朋友		闲聊	ask-chat		
+yuanqutoy019	2015-01-20 13:55:25	yqnlpdnn1950d0f15d13a56	锄禾日当午。	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-08 22:03:56	yqnlpdnn1950c2482d089a0	你好。	你好呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:05:26	yqnlpdnn1950c2488272f27	你怎么这么蠢。	哼，告诉你，我很聪明		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:06:25	yqnlpdnn1950c248bac492c	你怎么这么蠢。	哼，告诉你，我很聪明		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:09:35	yqnlpdnn1950c24970182ab	今天是星期几你知道吗。	有日历吗，让我帮你看看		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:09:46	yqnlpdnn1950c2497a9974b	好呀。	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-08 22:10:20	yqnlpdnn1950c2499b1b2f7	你看了日历那今天是星期几啊。	有日历吗，让我帮你看看		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:11:04	yqnlpdnn1950c249c51aecc	现在天气真好呀。	我也有不开心的时候嘛		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:11:40	yqnlpdnn1950c249e6fd693	你可以和其他小朋友去玩呀。	我很厉害的，我会讲故事、唱歌、算算术、会背诗、会陪你聊天，解答问题。你发现了吗		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:12:01	yqnlpdnn1950c249fb5b343	很抱歉我没有发现。	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:12:11	yqnlpdnn1950c24a050d3d8	不行	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-08 22:13:01	yqnlpdnn1950c24a3450a25	因为它是爷爷。	答得不对，再想一想！	刷的是假牙	问答	answer-life		
+yuanqutoy020	2015-01-08 22:13:09	yqnlpdnn1950c24a3cad1c9	我不知道。	我来告诉你吧：刷的是假牙		问答	answer-unknown		
+yuanqutoy020	2015-01-08 22:13:35	yqnlpdnn1950c24a5507589	带奶瓶。	大孩子还带奶瓶，不怕同学笑话你吗	大孩子还带奶瓶，不怕同学笑话你吗	趣味问答	answer-funnydecision		
+yuanqutoy020	2015-01-08 22:13:56	yqnlpdnn1950c24a695c449	那你呢。	我妈妈在外星球呢！		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:14:07	yqnlpdnn1950c24a73a2e6c	那你为什么会在地球呀。	因为我本身就是智能能机器人啊，当然聪明了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:14:20	yqnlpdnn1950c24a8072059	我没说你聪明呀。	因为我本身就是智能能机器人啊，当然聪明了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:14:33	yqnlpdnn1950c24a8c0c11a	昨天你去哪玩了。	那你一定玩的很开心吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:14:44	yqnlpdnn1950c24a96e5448	是的我去公园玩了。	宝宝乖，等妈妈忙好了就带宝宝出去玩了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:14:57	yqnlpdnn1950c24aa2d8142	你妈妈要忙什么呢。	我在发呆，什么都没做，就想静静的呆一会		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:15:11	yqnlpdnn1950c24ab033fd6	我想玩游戏。	我们来玩一会吧，你是想听歌，还是猜谜语？		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:15:24	yqnlpdnn1950c24abd30574	我想听儿歌。			点播	ask-audio		
+yuanqutoy020	2015-01-08 22:15:39	yqnlpdnn1950c24acbaf641	我不想听歌了，我想跳舞。	那你想干什么？		闲聊	ask-notplay		
+yuanqutoy020	2015-01-08 22:15:50	yqnlpdnn1950c24ad617595	你会跳什么舞吗。	我多才多艺，唱歌跳舞、诗词歌赋、样样精通		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:16:03	yqnlpdnn1950c24ae239180	那你背一首唐诗给我听听。	我们来背诵杜甫的绝句，好吗？	确认	诗词	ask-poetry		
+yuanqutoy020	2015-01-08 22:16:29	yqnlpdnn1950c24afaeb9b0	我不知道。	我来告诉你吧，是一行白鹭上青天。又该你了！	窗含西岭千秋雪	诗词	answer-unknown		
+yuanqutoy020	2015-01-08 22:16:43	yqnlpdnn1950c24b084689c	你告诉我吧。	我来告诉你吧，是窗含西岭千秋雪。又该你了，最后一句是什么？	门泊东吴万里船	诗词	answer-unknown		
+yuanqutoy020	2015-01-08 22:16:57	yqnlpdnn1950c24b15c8726	好像你背错了。	答得不对，再想一想，最后一句是什么？	门泊东吴万里船	诗词	ask-poetry		
+yuanqutoy020	2015-01-08 22:17:07	yqnlpdnn1950c24b1f73981	万里船。	让我开动脑筋想一想再回答吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:17:57	yqnlpdnn1950c24b4ef9de4	今天下雨。	下雨就不能在屋外玩耍了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:18:08	yqnlpdnn1950c24b5922b3f	我没有带伞。	那你还是出门时带伞吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:18:17	yqnlpdnn1950c24b621bc63	我告诉你个小秘密。	什么秘密，说来听听		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:18:26	yqnlpdnn1950c24b6a9ebf8	我才不告诉你呢。	那你想告诉谁呢		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:18:34	yqnlpdnn1950c24b7274edd	我想告诉明明。	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-08 22:18:44	yqnlpdnn1950c24b7ba2ffe	你最喜欢什么小动物呢。	我喜欢狗狗，因为他是汪星人，哈哈！		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:18:58	yqnlpdnn1950c24b88f775a	我不喜欢。	宝宝为什么不喜欢我呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:19:06	yqnlpdnn1950c24b9082790	因为你长得一点都不可爱。	呜……难道你不喜欢我吗		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:19:31	yqnlpdnn1950c24ba8d96dc	昨天我做了一个奇妙的梦。	呵呵，真好笑		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:19:42	yqnlpdnn1950c24bb2d6949	难道你没做过梦吗。	我在发呆，什么都没做，就想静静的呆一会		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:19:58	yqnlpdnn1950c24bc2036a4	昨天晚上我在数星星。	难怪我听不明白		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:40:45	yqnlpdnn1950c25067e7564	我今天吃了，三碗饭。	宝宝棒棒哒		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:41:33	yqnlpdnn1950c2509595d38	我的袜子被弄湿了。	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:41:43	yqnlpdnn1950c2509ecb643	谁的鞋子怎么那么臭啊	呵呵，你说的真好听		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:42:08	yqnlpdnn1950c250b691f67	你的帽子真好看。	我有很多故事，你挑个最好听的讲讲吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:42:30	yqnlpdnn1950c250cb95fed	我想买个新书包。	嗯，那很好呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:42:41	yqnlpdnn1950c250d65b8e7	听说那个大猩猩也是人。	说了这么多话，该喝口水了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:43:04	yqnlpdnn1950c250ec0dc8f	昨天是情人节你知道吗。	我是一个机器人		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:43:17	yqnlpdnn1950c250f8906d1	这是我爸爸妈妈告诉我。	我们可以打电话给他们呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:43:29	yqnlpdnn1950c25103ef969	我的爸爸是警察。他很历害。	哈哈，被爸爸知道的话会打你的小屁股哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:43:53	yqnlpdnn1950c2511b31803	我妈妈长得可漂亮了。	宝宝真幸福啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:44:05	yqnlpdnn1950c2512668406	昨天有个小盆友给我一颗糖。	你可以邀请你的朋友啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:44:19	yqnlpdnn1950c251335550d	我的生日快到了。	我们一起唱生日快乐歌吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:44:41	yqnlpdnn1950c251486ff31	我要自己过生日。	祝宝宝生日快乐		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:45:29	yqnlpdnn1950c25176b9631	我想唱小苹果给你听听。	你想听什么，很多儿歌我都会唱呢		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:45:42	yqnlpdnn1950c2518310ba4	大苹果小苹果你想吃哪个苹果。	想啊，什么时候去？		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:46:03	yqnlpdnn1950c25196d489c	妈妈给我买了件新衣服。	嗯，那好呀，说明宝宝乖呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:46:21	yqnlpdnn1950c251a86a425	你觉得我的花裙子漂亮吗。	还是去问爸爸妈妈吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:46:42	yqnlpdnn1950c251bc85507	我也不知道跟你说什么了。	我的名字是贝贝，很高兴认识你		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:47:32	yqnlpdnn1950c251eb44344	我想吃奶糖。	只能吃一颗哦，吃多了糖的话，牙齿会生小虫虫的哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:47:46	yqnlpdnn1950c251f8d9087	听说小孩子不能吃榴莲。	呵呵，虽然我不会，但是我们可以百度一下。		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:48:15	yqnlpdnn1950c25214dd36a	我会写我自己的名字拉。	不聊了不聊了，休息休息		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:48:31	yqnlpdnn1950c2522424539	我妈妈告诉我说。我是一个可爱的宝宝。	爸爸妈妈上班去了，宝宝要在家要乖哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:48:48	yqnlpdnn1950c252346ef80	我需要一只小狗。	妈妈是担心有病菌感染，你还小 等长大了再养妈妈就会同意的！		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:49:20	yqnlpdnn1950c252528a7cb	小猫和小狗打架，谁黑，谁会比较厉害呢。	呵呵，你说的真好听		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:49:47	yqnlpdnn1950c2526c50d56	你放过风筝吗。	我的手放口袋里了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:49:57	yqnlpdnn1950c25275c56a1	你会游泳吗。	我现在不开心，没有人陪我玩		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:50:07	yqnlpdnn1950c2527ff7b03	我有一个大大的梦想。	嗯，宝宝又变懂事了		闲聊	ask-chat		
+yuanqutoy020	2015-01-08 22:50:17	yqnlpdnn1950c25289898dd	春天在哪里呀。	你是不是想看：儿歌春天在哪里	确认	点播	ask-video		
+yuanqutoy020	2015-01-09 23:13:45	yqnlpdnn1950c399a4db1ec	你喜欢去博物馆吗。	当然可以啊，我又多一个朋友啦		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:14:06	yqnlpdnn1950c399b914e6e	公园里面有好多鲸鱼呀。	又怎么了		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:14:42	yqnlpdnn1950c399db46de7	你见过恐龙吗。	我没听清楚，你再说一遍吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:15:01	yqnlpdnn1950c399ee271a4	我喜欢去玩过山车。	宝宝乖哦，一个人可不能出去玩		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:15:21	yqnlpdnn1950c39a0116aa1	我觉得冰糖葫芦一点都不好吃。	只能吃一颗哦，吃多了糖的话，牙齿会生小虫虫的哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:16:08	yqnlpdnn1950c39a2d84ff6	你和爸爸妈妈做过小蛋糕吗。	我有呀，我的爸爸妈妈是万能的工程师		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:16:30	yqnlpdnn1950c39a431cd7f	我想和，邻居家的小明一起玩。	宝宝乖，等妈妈忙好了就带宝宝出去玩了		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:16:56	yqnlpdnn1950c39a5bb6b11	妈妈没有给我买玩具。	那宝宝要表现好一点哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:17:15	yqnlpdnn1950c39a6dc0fa1	我觉得我爸爸长的很酷。	爸爸太凶了，我也怕		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:17:36	yqnlpdnn1950c39a815f0ea	我喜欢长着，长头发的姐姐	嘿嘿，这样也很好看		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:18:19	yqnlpdnn1950c39aaa4d5e8	你，长大之后想当科学家吗。	你很有理想啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:18:47	yqnlpdnn1950c39ac5714e6	不想。	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-09 23:19:04	yqnlpdnn1950c39ad53be86	现在是冬天了吗。	不知道哎，我们到时候看吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:19:18	yqnlpdnn1950c39ae2cca24	如果下雪了我们可以去堆雪人。	哇，外边一定很美吧！		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:19:39	yqnlpdnn1950c39af745934	我想骑自行车。	你是不是想问：为什么骑自行车不容易到?	确认	问答	ask-life		
+yuanqutoy020	2015-01-09 23:34:47	yqnlpdnn1950c39e5923c9d	你喜欢吃核桃吗。	鱼的刺太多了，不敢吃		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:35:05	yqnlpdnn1950c39e6a75ce8	我看过了熊出没的动画片。	妈妈同意就可以		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:35:29	yqnlpdnn1950c39e809169a	你喜欢玩游戏吗。	可是我好喜欢你啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:35:48	yqnlpdnn1950c39e92a05c9	爸爸说。	爸爸不在呀，爸爸出去了把，宝宝要乖哦，爸爸一会就回来		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:37:56	yqnlpdnn1950c39f0cb6901	妈妈给我买了一双新鞋子。	那宝宝要表现好一点哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:38:11	yqnlpdnn1950c39f1afbcd8	老师说，乖宝宝不能吵妈妈买玩具的。	呵呵，你说的真好听		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:38:39	yqnlpdnn1950c39f3655e1d	等到明年开始学我觉得可以上小学了。	你在说什么？		未知	unknown		
+yuanqutoy020	2015-01-09 23:39:26	yqnlpdnn1950c39f63213e8	我不喜欢吃胡萝卜。	多吃饭宝宝才会身体强壮，就不用去医院打针了		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:40:38	yqnlpdnn1950c39fa7d7e64	叔叔给我买了一本故事书。	嗯，那很好呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:40:58	yqnlpdnn1950c39fbb04df9	你听过，白雪公主的故事吗。	喜欢呀 ，她又漂亮又善良 真是女神呀！		闲聊	ask-chat		
+yuanqutoy020	2015-01-09 23:41:17	yqnlpdnn1950c39fcc97c45	你认识青蛙王子吗。	好像没有这个儿歌，给你播放一首儿歌青蛙王子，好吗？	确认	点播	ask-video		
+yuanqutoy020	2015-01-16 22:38:59	yqnlpdnn1950cc5eedc2b9b	你是男孩子还是女孩子。	嗯，你这么问人家会害羞的，难道你看不出来我是女孩子吗		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:39:32	yqnlpdnn1950cc5f0d9db8b	我觉得你长得像个男人婆。	帅啊，那是必须的		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:39:46	yqnlpdnn1950cc5f1ab569c	你喜欢穿裙子吗。	当然可以啊，我又多一个朋友啦		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:39:56	yqnlpdnn1950cc5f243bb2f	我妈妈说，小朋友不可以穿高跟鞋的。	是不是你太调皮了		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:40:10	yqnlpdnn1950cc5f318684d	冬天到了，下雪啦。	我也不知道哦，我们去问问看爸爸妈妈吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:40:28	yqnlpdnn1950cc5f4299f98	你过圣诞节吗。	圣诞节是每年的12月25日		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:40:39	yqnlpdnn1950cc5f4d54e41	春节。	春节快乐，要给我压岁钱呀，嘿嘿		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:40:59	yqnlpdnn1950cc5f6053894	你准备放假了吗。	我没听错吧，我这么可爱善良，怎么会恐怖呢		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:41:17	yqnlpdnn1950cc5f71f7937	我想吃苹果。	多吃水果有益健康		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:41:33	yqnlpdnn1950cc5f81815fc	今天是周末。	看来你很喜欢周末哦		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:41:47	yqnlpdnn1950cc5f8e1173d	休息的时候你想去哪玩呢。	不知道，我也不知道玩什么		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:42:00	yqnlpdnn1950cc5f9a9cbf9	你喜欢玩积木吗。	喜欢呀		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:42:13	yqnlpdnn1950cc5fa701a6e	我是奥特曼。	当然，奥特曼可以拯救世界呢		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:42:30	yqnlpdnn1950cc5fb77cecf	我觉得美羊羊长得可好看了。	没听清哦，说慢一点吧		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:42:42	yqnlpdnn1950cc5fc302ca2	我不喜欢灰太狼。	跳舞好呀，既锻炼身体又可以减肥啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:42:56	yqnlpdnn1950cc5fd07ccd6	你喜欢看什么动画片呢。	我最讨厌吃的是对身体有害的垃圾食品啊		闲聊	ask-chat		
+yuanqutoy020	2015-01-16 22:43:55	yqnlpdnn1950cc600862e7a	你见过梅花吗。	你在说什么？		未知	unknown		

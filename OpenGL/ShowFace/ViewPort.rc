@@ -1,0 +1,632 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 4, 2\r\n"
+    "#pragma code_page(936)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\ViewPort.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.chs\\afxres.rc""          // Standard components\r\n"
+    "#include ""l.chs\\afxprint.rc""        // printing/print preview resources\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\ViewPort.ico"
+IDR_VIEWPOTYPE          ICON    DISCARDABLE     "res\\ViewPortDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+PLAYU                   BITMAP  DISCARDABLE     "res\\playu.bmp"
+PLAYD                   BITMAP  DISCARDABLE     "res\\bitmap1.bmp"
+PAUSEU                  BITMAP  DISCARDABLE     "res\\pauseu.bmp"
+PAUSED                  BITMAP  DISCARDABLE     "res\\bmp00001.bmp"
+STOPU                   BITMAP  DISCARDABLE     "res\\bmp00002.bmp"
+STOPD                   BITMAP  DISCARDABLE     "res\\stopd.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_ANI_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_PLAY_ANI
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    SEPARATOR
+    BUTTON      ID_APP_ABOUT
+    SEPARATOR
+    BUTTON      ID_MGRID
+    BUTTON      ID_MTEXTURE
+    SEPARATOR
+    BUTTON      ID_MROTT
+    BUTTON      ID_MORIG
+    SEPARATOR
+    BUTTON      ID_MSEP
+    BUTTON      ID_MFAP
+    BUTTON      ID_MEXP
+    BUTTON      ID_MVIS
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "文件(&F)"
+    BEGIN
+        MENUITEM "新建(&N)\tCtrl+N",            ID_FILE_NEW, GRAYED
+        MENUITEM "打开动画(&O)...\tCtrl+O",     ID_ANI_FILE_OPEN
+        MENUITEM "保存(&S)\tCtrl+S",            ID_FILE_SAVE, GRAYED
+        MENUITEM "另存为(&A)...",               ID_FILE_SAVE_AS, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "打印(&P)...\tCtrl+P",         ID_FILE_PRINT, GRAYED
+        MENUITEM "打印预览(&V)",                ID_FILE_PRINT_PREVIEW
+        , GRAYED
+        MENUITEM "打印设置(&R)...",             ID_FILE_PRINT_SETUP, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "最近文件",                    ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "退出(&X)",                    ID_APP_EXIT
+    END
+    POPUP "编辑(&E)"
+    BEGIN
+        MENUITEM "撤消(&U)\tCtrl+Z",            ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "播放(&P)\tCtrl+X",            ID_PLAY_ANI
+        MENUITEM "复制(&C)\tCtrl+C",            ID_EDIT_COPY
+        MENUITEM "粘贴(&P)\tCtrl+V",            ID_EDIT_PASTE
+    END
+    POPUP "查看(&V)"
+    BEGIN
+        MENUITEM "工具栏(&T)",                  ID_VIEW_TOOLBAR
+        MENUITEM "状态栏(&S)",                  ID_VIEW_STATUS_BAR
+    END
+    POPUP "帮助(&H)"
+    BEGIN
+        MENUITEM "关于 ViewPort(&A)...",        ID_APP_ABOUT
+    END
+    POPUP "模型显示(&M)"
+    BEGIN
+        MENUITEM "网格(&G)",                    ID_MGRID
+        MENUITEM "材质/纹理(&T)",               ID_MTEXTURE
+        MENUITEM SEPARATOR
+        MENUITEM "旋转模式(&R)",                ID_MROTT
+        MENUITEM "位置复原(&O)",                ID_MORIG
+    END
+    POPUP "模型调整(&A)"
+    BEGIN
+        MENUITEM "分块显示(&S)",                ID_MSEP
+        MENUITEM SEPARATOR
+        MENUITEM "&FAP参数",                    ID_MFAP
+        MENUITEM "表情(&E)",                    ID_MEXP
+        MENUITEM "语言口形(&V)",                ID_MVIS
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL, NOINVERT
+    "O",            ID_ANI_FILE_OPEN,       VIRTKEY, CONTROL, NOINVERT
+    "P",            ID_FILE_PRINT,          VIRTKEY, CONTROL, NOINVERT
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_PLAY_ANI,            VIRTKEY, CONTROL, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "关于 ViewPort"
+FONT 9, "宋体"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "ViewPort 1.0 版",IDC_STATIC,40,10,119,8,SS_NOPREFIX
+    LTEXT           "版权所有 (C) 2000",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "确定",IDOK,178,7,50,14,WS_GROUP
+END
+
+IDD_SEPDLG DIALOG DISCARDABLE  0, 0, 92, 153
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "模型分块显示"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "Hair,Eyebows",IDC_CHECK1,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,21,63,9
+    GROUPBOX        "组成部分",IDC_STATIC,7,7,78,124
+    CONTROL         "Mouth",IDC_CHECK2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    17,33,63,9
+    CONTROL         "Skin",IDC_CHECK3,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    17,45,63,9
+    CONTROL         "Tongue",IDC_CHECK4,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,57,63,9
+    CONTROL         "Fringe",IDC_CHECK5,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,69,63,9
+    CONTROL         "Pupils",IDC_CHECK6,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,81,63,9
+    CONTROL         "Iris",IDC_CHECK7,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    17,93,63,9
+    CONTROL         "EyeWhite",IDC_CHECK8,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,17,105,63,9
+    CONTROL         "Teeth",IDC_CHECK9,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,
+                    17,117,63,9
+    PUSHBUTTON      "全选",IDC_SELALL,7,133,20,14
+    PUSHBUTTON      "全不选",IDC_SELNONE,33,133,26,14
+    PUSHBUTTON      "反选",IDC_CNSEL,65,133,20,14
+END
+
+IDD_FAPDLG DIALOG DISCARDABLE  0, 0, 306, 219
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "调整低层FAP"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "Slider1",IDC_FAPSLD1,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,24,153,12
+    CONTROL         "Slider1",IDC_FAPSLD2,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,38,153,12
+    CONTROL         "Slider1",IDC_FAPSLD3,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,52,153,12
+    CONTROL         "Slider1",IDC_FAPSLD4,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,66,153,12
+    CONTROL         "Slider1",IDC_FAPSLD5,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,80,153,12
+    CONTROL         "Slider1",IDC_FAPSLD6,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,94,153,12
+    CONTROL         "Slider1",IDC_FAPSLD7,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,108,153,12
+    CONTROL         "Slider1",IDC_FAPSLD8,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,122,153,12
+    CONTROL         "Slider1",IDC_FAPSLD9,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,136,153,12
+    CONTROL         "Slider1",IDC_FAPSLD10,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,150,153,12
+    CONTROL         "Slider1",IDC_FAPSLD11,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,164,153,12
+    CONTROL         "Slider1",IDC_FAPSLD12,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,178,153,12
+    EDITTEXT        IDC_FAPVALUE1,167,24,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE2,167,38,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE3,167,52,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE4,167,66,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE5,167,80,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE6,167,94,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE7,167,108,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE8,167,122,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE9,167,136,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE10,167,150,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE11,167,164,56,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_FAPVALUE12,167,178,56,12,ES_AUTOHSCROLL
+    LTEXT           "?",IDC_L1,229,24,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L2,229,38,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L3,229,52,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L4,229,66,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L5,229,80,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L6,229,94,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L7,229,108,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L8,229,122,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L9,229,136,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L10,229,150,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L11,229,164,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    LTEXT           "?",IDC_L12,229,178,64,12,SS_CENTERIMAGE | SS_SUNKEN
+    CONTROL         "Tab1",IDC_TAB1,"SysTabControl32",0x0,7,7,292,186
+    PUSHBUTTON      "清零",IDC_CLEAR,7,198,50,14
+END
+
+IDD_EXPDLG DIALOG DISCARDABLE  0, 0, 213, 161
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "显示6种表情"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "Slider1",IDC_SLIDER1,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,10,7,16,106
+    CONTROL         "Slider1",IDC_SLIDER2,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,44,7,16,106
+    CONTROL         "Slider1",IDC_SLIDER3,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,78,7,16,106
+    CONTROL         "Slider1",IDC_SLIDER4,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,112,7,16,106
+    CONTROL         "Slider1",IDC_SLIDER5,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,146,7,16,106
+    CONTROL         "Slider1",IDC_SLIDER6,"msctls_trackbar32",TBS_VERT | 
+                    TBS_BOTH | TBS_NOTICKS | WS_TABSTOP,180,7,16,106
+    EDITTEXT        IDC_EDIT1,7,115,22,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,41,115,22,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT3,75,115,22,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT4,109,115,22,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT5,143,115,22,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT6,177,115,22,12,ES_AUTOHSCROLL
+    LTEXT           "Joy",IDC_STATIC,12,127,16,10
+    LTEXT           "Sadness",IDC_STATIC,39,127,30,10
+    LTEXT           "Anger",IDC_STATIC,78,127,21,10
+    LTEXT           "Fear",IDC_STATIC,113,127,18,10
+    LTEXT           "Disgust",IDC_STATIC,141,127,30,10
+    LTEXT           "Surprise",IDC_STATIC,173,127,33,10
+    PUSHBUTTON      "清零",IDC_CLREXP,7,141,38,13
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDHORZ,7,137,199,1
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDVERT,35,7,1,128
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDVERT,69,7,1,127
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDVERT,103,7,1,125
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDVERT,137,7,1,124
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDVERT,171,7,1,124
+    CONTROL         "总和归一",IDC_REDUCE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,52,143,46,11
+END
+
+IDD_VISDLG DIALOG DISCARDABLE  0, 0, 187, 147
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "显示语言口形"
+FONT 9, "宋体"
+BEGIN
+    LISTBOX         IDC_VISEMS,7,7,48,133,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | 
+                    WS_TABSTOP
+    PUSHBUTTON      "保存FAP",IDC_SAVEVIS,67,19,50,14
+    PUSHBUTTON      "保存Vis表",IDC_SAVEVISTAB,67,100,50,14
+END
+
+IDD_PLAYANI_DLG DIALOG DISCARDABLE  0, 0, 277, 47
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "播放ANI动画"
+FONT 9, "宋体"
+BEGIN
+    CONTROL         "Slider1",IDC_SLIDER1,"msctls_trackbar32",TBS_BOTH | 
+                    TBS_NOTICKS | WS_TABSTOP,9,0,235,16
+    CONTROL         "Play",IDC_BTNPLAY,"Button",BS_OWNERDRAW | WS_TABSTOP,27,
+                    18,17,18
+    CONTROL         "Pause",IDC_BTNPAUSE,"Button",BS_OWNERDRAW | WS_TABSTOP,
+                    46,18,17,18
+    CONTROL         "Stop",IDC_BTNSTOP,"Button",BS_OWNERDRAW | WS_TABSTOP,65,
+                    18,17,18
+    LTEXT           "0",IDC_STATIC,2,3,8,8,SS_CENTERIMAGE
+    LTEXT           "Static",IDC_TOTALFRM,251,2,25,10
+    EDITTEXT        IDC_CUR_FRM,145,24,27,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Go>>",IDC_GOTO,176,24,31,12
+    PUSHBUTTON      "<",IDC_PREV_FRM,119,24,12,12
+    PUSHBUTTON      ">",IDC_NEXT_FRM,131,24,12,12
+    LTEXT           "Static",IDC_PLAYINFO,2,37,275,9,SS_SUNKEN
+    EDITTEXT        IDC_PLAY_SPEED,93,24,24,12,ES_AUTOHSCROLL
+    LTEXT           "Speed",IDC_STATIC,94,15,22,8,SS_CENTERIMAGE
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "080404B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "ViewPort Microsoft 基础类应用程序\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "ViewPort\0"
+            VALUE "LegalCopyright", "版权所有 (C) 2000\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "ViewPort.EXE\0"
+            VALUE "ProductName", "ViewPort 应用程序\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x804, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+
+    IDD_SEPDLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 85
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 146
+    END
+
+    IDD_FAPDLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 299
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 212
+    END
+
+    IDD_EXPDLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 206
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 154
+    END
+
+    IDD_VISDLG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 140
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "ViewPort\n\nViewPo\n\n\nViewPort.Document\nViewPo Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "ViewPort"
+    AFX_IDS_IDLEMESSAGE     "就绪"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "扩展名"
+    ID_INDICATOR_CAPS       "大写"
+    ID_INDICATOR_NUM        "数字"
+    ID_INDICATOR_SCRL       "滚动"
+    ID_INDICATOR_OVR        "改写"
+    ID_INDICATOR_REC        "记录"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "建立新文档\n新建"
+    ID_FILE_OPEN            "打开一个动画文件"
+    ID_FILE_CLOSE           "关闭活动文档\n关闭"
+    ID_FILE_SAVE            "保存活动文档\n保存"
+    ID_FILE_SAVE_AS         "将活动文档以一个新文件名保存\n另存为"
+    ID_FILE_PAGE_SETUP      "改变打印选项\n页面设置"
+    ID_FILE_PRINT_SETUP     "改变打印机及打印选项\n打印设置"
+    ID_FILE_PRINT           "打印活动文档\n打印"
+    ID_FILE_PRINT_PREVIEW   "显示整页\n打印预览"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "显示程序信息，版本号和版权\n关于"
+    ID_APP_EXIT             "退出应用程序；提示保存文档\n退出"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "打开该文档"
+    ID_FILE_MRU_FILE2       "打开该文档"
+    ID_FILE_MRU_FILE3       "打开该文档"
+    ID_FILE_MRU_FILE4       "打开该文档"
+    ID_FILE_MRU_FILE5       "打开该文档"
+    ID_FILE_MRU_FILE6       "打开该文档"
+    ID_FILE_MRU_FILE7       "打开该文档"
+    ID_FILE_MRU_FILE8       "打开该文档"
+    ID_FILE_MRU_FILE9       "打开该文档"
+    ID_FILE_MRU_FILE10      "打开该文档"
+    ID_FILE_MRU_FILE11      "打开该文档"
+    ID_FILE_MRU_FILE12      "打开该文档"
+    ID_FILE_MRU_FILE13      "打开该文档"
+    ID_FILE_MRU_FILE14      "打开该文档"
+    ID_FILE_MRU_FILE15      "打开该文档"
+    ID_FILE_MRU_FILE16      "打开该文档"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "切换到下一个窗格\n下一窗格"
+    ID_PREV_PANE            "切换回前一个窗格\n前一窗格"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "将活动的窗口分隔成窗格\n分隔"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "删除被选对象\n删除"
+    ID_EDIT_CLEAR_ALL       "全部删除\n全部删除"
+    ID_EDIT_COPY            "复制被选对象并将其置于剪贴板上\n复制"
+    ID_EDIT_FIND            "查找指定的正文\n查找"
+    ID_EDIT_PASTE           "插入剪贴板内容\n粘贴"
+    ID_EDIT_REPEAT          "重复上一步操作\n重复"
+    ID_EDIT_REPLACE         "用不同的正文替换指定的正文\n替换"
+    ID_EDIT_SELECT_ALL      "选择整个文档\n选择全部"
+    ID_EDIT_UNDO            "撤消最后一步操作\n撤消"
+    ID_EDIT_REDO            "重新执行先前已撤消的操作\n重新执行"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "显示或隐藏工具栏\n显隐工具栏"
+    ID_VIEW_STATUS_BAR      "显示或隐藏状态栏\n显隐状态栏"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "改变窗口大小"
+    AFX_IDS_SCMOVE          "改变窗口位置"
+    AFX_IDS_SCMINIMIZE      "将窗口缩小成图标"
+    AFX_IDS_SCMAXIMIZE      "把窗口放大到最大尺寸"
+    AFX_IDS_SCNEXTWINDOW    "切换到下一个文档窗口"
+    AFX_IDS_SCPREVWINDOW    "切换到先前的文档窗口"
+    AFX_IDS_SCCLOSE         "关闭活动的窗口并提示保存所有文档"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "把窗口恢复到正常大小"
+    AFX_IDS_SCTASKLIST      "激活任务表"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_PREVIEW_CLOSE   "关闭打印预览模式\n取消预阅"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_MGRID                "显示为网格模式"
+    ID_MTEXTURE             "显示材质和纹理"
+    ID_MROTT                "键盘鼠标控制：旋转模式"
+    ID_MORIG                "模型状态复原"
+    ID_MSEP                 "模型分块显示"
+    ID_MFAP                 "调整FAP参数"
+    ID_MEXP                 "显示6种表情"
+    ID_MVIS                 "显示语言口形"
+    ID_ANI_FILE_OPEN        "打开ANI动画文件"
+    ID_PLAY_ANI             "播放ANI动画"
+END
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE 4, 2
+#pragma code_page(936)
+#endif //_WIN32
+#include "res\ViewPort.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.chs\afxres.rc"          // Standard components
+#include "l.chs\afxprint.rc"        // printing/print preview resources
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

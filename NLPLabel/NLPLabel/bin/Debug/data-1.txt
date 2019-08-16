@@ -1,0 +1,60 @@
+﻿ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather	指令	ask-weather
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat	指令	ask-weather
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather	点播	ask-audio
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat	当前领域	confirm-no
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather	点播	ask-audio
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat	当前领域	confirm-yes
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat	脑筋急转弯	answer-funnyquest
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather	闲聊	ask-chat
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat	闲聊	ask-chat
+ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather	动作	ask-weather
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat	指令	ask-weather
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather	动作	ask-weather
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat	当前领域	confirm-no
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather	点播	ask-audio
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat	当前领域	confirm-yes
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat		
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather		
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat		
+ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather		
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat		
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat		
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat		
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat	闲聊	ask-chat
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather	动作	ask-weather
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat		
+ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather		
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat		
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat		
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat		
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat		
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather		
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat		
+ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather		
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat		
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat		
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat		
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat		
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather		
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat		
+ubot001	32:52.	sid001	今天天气怎么样	今天小雨，2到6度		动作	ask-weather		
+ubot001	34:52.	sid002	今天会下雨吗	我不明白你的意思	-	闲聊	ask-chat		
+ubot001	32:52.	sid003	我想听哈哈歌	给你播放一首哇哈哈，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid004	不好	那你想听什么	歌名	闲聊	ask-chat		
+ubot001	32:52.	sid005	我想听灰狼	给你播放一首大灰狼，好吗	确认	动作	ask-weather		
+ubot001	34:52.	sid006	好的		-	闲聊	ask-chat		
+ubot001	32:52.	sid007	[10s]	考考你，一颗星值多少钱？	一亿	动作	ask-weather		
+ubot001	34:52.	sid008	一百块	我没听明白	-	闲聊	ask-chat		
+ubot001	32:52.	sid009	你叫什么名字	啊，你不认识我啊，我是贝贝	-	动作	ask-weather		
+ubot001	34:52.	sid010	我想听歌	呵呵，你真好笑	-	闲聊	ask-chat		
